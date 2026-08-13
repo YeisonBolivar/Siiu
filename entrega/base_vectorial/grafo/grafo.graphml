@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"  
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+     http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="node" attr.name="tipo" attr.type="string"/>
+  <key id="d1" for="edge" attr.name="relacion" attr.type="string"/>
+  <graph id="G" edgedefault="directed">
+    <node id="Inteligencia Artificial"><data key="d0">Tecnologia</data></node>
+    <node id="Defensa Nacional"><data key="d0">Dominio</data></node>
+    <node id="Orbita LEO"><data key="d0">Entorno</data></node>
+    <node id="Basura Espacial"><data key="d0">Amenaza</data></node>
+    <edge source="Inteligencia Artificial" target="Defensa Nacional"><data key="d1">fortalece</data></edge>
+    <edge source="Basura Espacial" target="Orbita LEO"><data key="d1">amenaza</data></edge>
+  </graph>
+</graphml>
