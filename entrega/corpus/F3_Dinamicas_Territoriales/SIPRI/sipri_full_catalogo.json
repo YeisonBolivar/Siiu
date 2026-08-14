@@ -1,0 +1,409 @@
+[
+  {
+    "url": "https://www.sipri.org/publications/2026/other-publications/security-sector-reform-and-united-nations-transitions-factors-success",
+    "json": "articulos/2026_security-sector-reform-and-united-nations-transitions-factors-success.json",
+    "titulo": "Security Sector Reform and United Nations Transitions: Factors for Success",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2026-06/0626_transitions_just_future.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2026/research-reports/aid-cuts-and-security-risks-health-system-disruption-human-insecurity",
+    "json": "articulos/2026_aid-cuts-and-security-risks-health-system-disruption-human-insecurity.json",
+    "titulo": "Aid Cuts and Security Risks: From Health System Disruption to Human Insecurity",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2026-06/rpp_2026_06_aid_cuts_and_security_risks.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2026/other-publications/building-effective-infrastructure-peace-syria-and-lebanon",
+    "json": "articulos/2026_building-effective-infrastructure-peace-syria-and-lebanon.json",
+    "titulo": "Building an Effective Infrastructure for Peace in Syria and Lebanon",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2026-06/0626_building_an_effective_infrastructure_for_peace_in_syria_and_lebanon.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2026/partner-publications/climate-peace-and-security-fact-sheet-lake-chad-2026",
+    "json": "articulos/2026_climate-peace-and-security-fact-sheet-lake-chad-2026.json",
+    "titulo": "Climate, Peace and Security Fact Sheet: Lake Chad (2026)",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2026-06/sipri-nupi_fact_sheet_lake_chad.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2026/partner-publications/military-assistance-provided-eu-and-other-external-actors-eus-eastern-neighbourhood-2010-25",
+    "json": "articulos/2026-03-18_military-assistance-provided-eu-and-other-external-actors-eus-eastern-neighbourhood-2010-2.json",
+    "titulo": "Military Assistance Provided by the EU and Other External Actors to the EU’s Eastern Neighbourhood, 2010–25",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2026-06/military_assistance_east_0.pdf",
+      "https://www.sipri.org/sites/default/files/Centerfold_East_A3.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2026/partner-publications/military-assistance-provided-eu-and-other-external-actors-eus-southern-neighbourhood-2010-25",
+    "json": "articulos/2026-03-18_military-assistance-provided-eu-and-other-external-actors-eus-southern-neighbourhood-2010-.json",
+    "titulo": "Military Assistance Provided by the EU and Other External Actors to the EU’s Southern Neighbourhood, 2010–25",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2026-06/military_assistance_south.pdf",
+      "https://www.sipri.org/sites/default/files/Centerfold_South_A3.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2026/partner-publications/military-assistance-provided-eu-and-other-external-actors-west-africa-2010-25",
+    "json": "articulos/2026-03-18_military-assistance-provided-eu-and-other-external-actors-west-africa-2010-25.json",
+    "titulo": "Military Assistance Provided by the EU and Other External Actors to West Africa, 2010–25",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2026-06/military_assistance_west_africa.pdf",
+      "https://www.sipri.org/sites/default/files/Centerfold_West_Africa_A3.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2026/eu-non-proliferation-and-disarmament-papers/cyber-disarmament-practice-eus-role-governing-software-vulnerabilities-fragmented-international",
+    "json": "articulos/2026_cyber-disarmament-practice-eus-role-governing-software-vulnerabilities-fragmented-internat.json",
+    "titulo": "Cyber (Dis)armament in Practice: The EU’s Role in Governing Software Vulnerabilities in a Fragmented International Order",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2026-05/eunpdc_no_100_cyber_disarmament.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2026/sipri-fact-sheets/developments-and-trends-multilateral-peace-operations-2025",
+    "json": "articulos/2026-05-25_developments-and-trends-multilateral-peace-operations-2025.json",
+    "titulo": "Developments and Trends in Multilateral Peace Operations, 2025",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2026-05/fs_2605_mpo_2026.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2026/other-publications/climate-peace-and-security-fact-sheet-afghanistan-2026",
+    "json": "articulos/2026_climate-peace-and-security-fact-sheet-afghanistan-2026.json",
+    "titulo": "Climate, Peace and Security Fact Sheet: Afghanistan (2026)",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2026-03/sipri-nupi_fact_sheet_afghanistan.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2026/sipri-fact-sheets/trends-world-military-expenditure-2025",
+    "json": "articulos/2026-04-27_trends-world-military-expenditure-2025.json",
+    "titulo": "Trends in World Military Expenditure, 2025",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2026/sipri-insights-peace-and-security/budget-fifth-year-war-military-spending-russias-budget-2026",
+    "json": "articulos/2026_budget-fifth-year-war-military-spending-russias-budget-2026.json",
+    "titulo": "A Budget for a Fifth Year of War: Military Spending in Russia’s Budget for 2026",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2026-03/2026_01_russias_military_budget_for_2026.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2026/other-publications/calibrating-deterrence-disruptors-strategic-stability-natos-new-northern-flank",
+    "json": "articulos/2025-06-27_calibrating-deterrence-disruptors-strategic-stability-natos-new-northern-flank.json",
+    "titulo": "Calibrating Deterrence: Disruptors of Strategic Stability on NATO’s New Northern Flank",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2026-03/0326_calibrating_deterrence.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2026/other-publications/good-practice-guide-applying-export-controls-transfers-commercial-cyber-intrusion-capabilities",
+    "json": "articulos/2026_good-practice-guide-applying-export-controls-transfers-commercial-cyber-intrusion-capabili.json",
+    "titulo": "Good Practice Guide on Applying Export Controls to Transfers of Commercial Cyber Intrusion Capabilities",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2026-03/gpg_2026_ccic.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2026/other-publications/preventing-biological-weapons-proliferation-operational-applications-emerging-technologies",
+    "json": "articulos/2026_preventing-biological-weapons-proliferation-operational-applications-emerging-technologies.json",
+    "titulo": "Preventing Biological Weapons Proliferation: Operational Applications of Emerging Technologies",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2026-03/0326_preventing_biological_weapons_proliferation_0.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2026/sipri-fact-sheets/trends-international-arms-transfers-2025",
+    "json": "articulos/2026-03-09_trends-international-arms-transfers-2025.json",
+    "titulo": "Trends in International Arms Transfers, 2025",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2026-03/fs_2603_at_2025.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2026/policy-reports/twenty-five-years-men-boys-and-masculinities-wps-agenda",
+    "json": "articulos/2026_twenty-five-years-men-boys-and-masculinities-wps-agenda.json",
+    "titulo": "Twenty-five Years of Men, Boys and Masculinities in the WPS Agenda",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2026-03/rpp_2026_03_25_years_of_men.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2026/other-publications/ai-chinese-indian-and-us-nuclear-postures-norms-and-systems",
+    "json": "articulos/2026_ai-chinese-indian-and-us-nuclear-postures-norms-and-systems.json",
+    "titulo": "AI in Chinese, Indian and US Nuclear Postures, Norms and Systems",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2026-02/2602_ai_integration.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2026/research-reports/end-mission-reinventing-closure-and-transition-processes-eu-civilian-csdp",
+    "json": "articulos/2026_end-mission-reinventing-closure-and-transition-processes-eu-civilian-csdp.json",
+    "titulo": "End of Mission: Reinventing Closure and Transition Processes in EU Civilian CSDP",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2026-02/end_of_mission_ville_savoranta.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2026/partner-publications/gendered-dimensions-climate-related-security-risks-osce-area",
+    "json": "articulos/2026_gendered-dimensions-climate-related-security-risks-osce-area.json",
+    "titulo": "Gendered dimensions of climate-related security risks in the OSCE area",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2026-02/gendered_dimensions_of_climate-related_security_risks.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2026/other-publications/responsible-procurement-military-artificial-intelligence",
+    "json": "articulos/2026_responsible-procurement-military-artificial-intelligence.json",
+    "titulo": "Responsible Procurement of Military Artificial Intelligence",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2026-02/0226_milai_procurement_260216.pdf",
+      "https://www.sipri.org/sites/default/files/2026-06/0226_milai_procurement_kr.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2026/policy-reports/seeking-stability-outer-space-opportunities-china-uk-dialogue",
+    "json": "articulos/2026_seeking-stability-outer-space-opportunities-china-uk-dialogue.json",
+    "titulo": "Seeking Stability in Outer Space: Opportunities for China–UK Dialogue",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2026-02/0226_rpp_chinese_perspectives_0.pdf",
+      "https://www.sipri.org/sites/default/files/2026-03/0226_rpp_chinese_perspectives_chinese.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2026/policy-reports/addressing-multidomain-nuclear-escalation-risk",
+    "json": "articulos/2026_addressing-multidomain-nuclear-escalation-risk.json",
+    "titulo": "Addressing Multidomain Nuclear Escalation Risk",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2026-01/rpp_2026_01_multidomain_escalation_risks_1.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2026/sipri-policy-briefs/china-and-changing-international-development-landscape",
+    "json": "articulos/2026_china-and-changing-international-development-landscape.json",
+    "titulo": "China and the Changing International Development Landscape",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2026-01/pb_2601_china_and_the_changing_international_dev_landscape.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2026/policy-reports/future-proofing-civilian-csdp-challenging-strategic-environment-seven-questions-debate",
+    "json": "articulos/2026_future-proofing-civilian-csdp-challenging-strategic-environment-seven-questions-debate.json",
+    "titulo": "Future-proofing Civilian CSDP in a Challenging Strategic Environment: Seven Questions for Debate",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2026-01/rpp_2026_01_future-proofing_civilian_csdp.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2025/partner-publications/climate-peace-and-security-fact-sheet-abyei-2025",
+    "json": "articulos/2025_climate-peace-and-security-fact-sheet-abyei-2025.json",
+    "titulo": "Climate, Peace and Security Fact Sheet: Abyei (2025)",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2025-12/sipri-nupi_fact_sheet_abyei.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2025/partner-publications/lasting-solutions-fragility-depend-peacebuilding",
+    "json": "articulos/2025-05-13_lasting-solutions-fragility-depend-peacebuilding.json",
+    "titulo": "Lasting Solutions to Fragility Depend on Peacebuilding",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2025-12/2025giz-en-lasting-solutions-fragility-peacebuilding.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2025/policy-reports/support-age-relapse-assisting-security-justice-and-inclusive-governance-restrictive-environments",
+    "json": "articulos/2025_support-age-relapse-assisting-security-justice-and-inclusive-governance-restrictive-enviro.json",
+    "titulo": "Support in an Age of Relapse: Assisting Security, Justice and Inclusive Governance in Restrictive Environments",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2025-12/rpp_2025_12_restrictive_environments_0.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2025/partner-publications/impact-conflict-and-displacement-sudanese-refugee-women-eastern-chad",
+    "json": "articulos/2025_impact-conflict-and-displacement-sudanese-refugee-women-eastern-chad.json",
+    "titulo": "The Impact of Conflict and Displacement on Sudanese Refugee Women in Eastern Chad",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2025-12/2025-11-19_xcept_policy_brief_sudanese_refugee_women_in_eastern_chad.pdf",
+      "https://www.sipri.org/sites/default/files/2025-12/2025-08-18_xcept_note_de_synthese_limpact_du_conflit_et_du_deplacement_sur_les_femmes_soudanaises.pdf",
+      "https://www.sipri.org/sites/default/files/2025-12/21.11.2025_pb_arabic.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2025/sipri-fact-sheets/sipri-top-100-arms-producing-and-military-services-companies-2024",
+    "json": "articulos/2025-12-01_sipri-top-100-arms-producing-and-military-services-companies-2024.json",
+    "titulo": "The SIPRI Top 100 Arms-producing and Military Services Companies, 2024",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2025/policy-reports/use-cases-emerging-technologies-strengthen-export-controls-biological-items",
+    "json": "articulos/2025-12-01_use-cases-emerging-technologies-strengthen-export-controls-biological-items.json",
+    "titulo": "Use Cases for Emerging Technologies to Strengthen Export Controls on Biological Items",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2025-12/rpp_use_cases_emerging_tech_bio_items_0.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2025/policy-reports/use-cases-emerging-technologies-strengthen-high-containment-laboratory-governance",
+    "json": "articulos/2025-12-01_use-cases-emerging-technologies-strengthen-high-containment-laboratory-governance.json",
+    "titulo": "Use Cases for Emerging Technologies to Strengthen High-containment Laboratory Governance",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2025-12/rpp_2025_12_use_cases_for_emerging_tech_to_strengthen_high-containment_lab_governance_0.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2025/other-publications/addressing-risks-civilian-ai-poses-international-peace-and-security-role-responsible-innovation",
+    "json": "articulos/2025_addressing-risks-civilian-ai-poses-international-peace-and-security-role-responsible-innov.json",
+    "titulo": "Addressing the Risks that Civilian AI Poses to International Peace and Security: The Role of Responsible Innovation",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2025-11/1125_civilian_ai.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2025/sipri-policy-briefs/climate-change-human-mobility-and-security",
+    "json": "articulos/2025_climate-change-human-mobility-and-security.json",
+    "titulo": "Climate Change, Human Mobility and Security",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2025-11/pb_2511_climate_change_human_mobility_and_security.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2025/other-publications/navigating-green-geopolitics-perils-and-promise-energy-transition-and-case-ukraine",
+    "json": "articulos/2025_navigating-green-geopolitics-perils-and-promise-energy-transition-and-case-ukraine.json",
+    "titulo": "Navigating Green Geopolitics: Perils and Promise of Energy Transition and the Case of Ukraine",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2025-12/1225_green_geopolitics_ukraine.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2025/policy-reports/rebalancing-military-spending-towards-achieving-sustainable-development",
+    "json": "articulos/2025_rebalancing-military-spending-towards-achieving-sustainable-development.json",
+    "titulo": "Rebalancing Military Spending Towards Achieving Sustainable Development",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2025-11/rpp_2025_11_milex_sdgs_3.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2025/policy-reports/militarization-technology-preventing-diversion-and-misuse-through-export-controls",
+    "json": "articulos/2025_militarization-technology-preventing-diversion-and-misuse-through-export-controls.json",
+    "titulo": "The Militarization of Technology: Preventing Diversion and Misuse Through Export Controls",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2025-11/rpp_2025_11_miltech.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2025/partner-publications/decade-youth-peace-and-security-fostering-intergenerational-action-climate-peace-and-security",
+    "json": "articulos/2025-10-02_decade-youth-peace-and-security-fostering-intergenerational-action-climate-peace-and-secur.json",
+    "titulo": "A Decade of Youth, Peace and Security: Fostering Intergenerational Action on Climate, Peace and Security",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2025-10/stockholm_forum_session_a_decade_of_youth_peace_and_security_-_fostering_intergenerational_action_on_climate_peace_and_security_final_2.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2025/partner-publications/climate-peace-and-security-thematic-fact-sheet-women-peace-and-security",
+    "json": "articulos/2025_climate-peace-and-security-thematic-fact-sheet-women-peace-and-security.json",
+    "titulo": "Climate, Peace and Security Thematic Fact Sheet: Women, Peace and Security",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2025-10/wps_sipri-nupi_fact_sheet.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2025/policy-reports/climate-resilient-investment-fragile-and-conflict-affected-situations-opportunities-business",
+    "json": "articulos/2025_climate-resilient-investment-fragile-and-conflict-affected-situations-opportunities-busine.json",
+    "titulo": "Climate-resilient Investment in Fragile and Conflict-affected Situations: Opportunities for Business?",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2025-10/rpp_florian_katongo.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2025/sipri-policy-papers/silos-synergies-partnering-social-cohesion-sahel",
+    "json": "articulos/2025_silos-synergies-partnering-social-cohesion-sahel.json",
+    "titulo": "From Silos to Synergies: Partnering for Social Cohesion in the Sahel",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2025-10/from_silos_to_synergies-partnering_for_social_cohesion_in_the_sahel_1.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2025/other-publications/pragmatic-approaches-governance-artificial-intelligence-nuclear-nexus",
+    "json": "articulos/2025_pragmatic-approaches-governance-artificial-intelligence-nuclear-nexus.json",
+    "titulo": "Pragmatic Approaches to Governance at the Artificial Intelligence–Nuclear Nexus",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2025-10/pragmatic_approaches_to_governance_at_the_ai-nuclear_nexus.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2025/policy-reports/pursuing-peace-shoestring-conflict-management-increasingly-complex-world",
+    "json": "articulos/2025_pursuing-peace-shoestring-conflict-management-increasingly-complex-world.json",
+    "titulo": "Pursuing Peace on a Shoestring: Conflict Management in an Increasingly Complex World",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2025-10/rpp_2025_10_ngcm_dakar.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2025/other-publications/women-multilateral-peace-operations-2025-what-state-play",
+    "json": "articulos/2025_women-multilateral-peace-operations-2025-what-state-play.json",
+    "titulo": "Women in Multilateral Peace Operations in 2025: What is the State of Play?",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2025-10/women_in_multilateral_peace_operations_in_2025-what_is_the_state_of_play.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2025/other-publications/export-controls-and-spyware-enhancing-oversight-transparency-and-restraint",
+    "json": "articulos/2025-06-24_export-controls-and-spyware-enhancing-oversight-transparency-and-restraint.json",
+    "titulo": "Export Controls and Spyware: Enhancing Oversight, Transparency and Restraint",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2025-09/0925_export_controls_and_spyware.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2025/partner-publications/map-practices-autopractices",
+    "json": "articulos/2025_map-practices-autopractices.json",
+    "titulo": "Map of Practices: AutoPractices",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2025-09/autopractices-map-web.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2025/sipri-policy-briefs/strengthening-osces-climate-security-agenda",
+    "json": "articulos/2025_strengthening-osces-climate-security-agenda.json",
+    "titulo": "Strengthening the OSCE’s Climate Security Agenda",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2025-08/pb_2509_osce_climate_security.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2025/other-publications/towards-multilateral-policy-autonomous-weapon-systems",
+    "json": "articulos/2025_towards-multilateral-policy-autonomous-weapon-systems.json",
+    "titulo": "Towards Multilateral Policy on Autonomous Weapon Systems",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2025-09/2509_towards_multilateral_policy_on_aws_1.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2025/other-publications/bias-military-artificial-intelligence-and-compliance-international-humanitarian-law",
+    "json": "articulos/2025_bias-military-artificial-intelligence-and-compliance-international-humanitarian-law.json",
+    "titulo": "Bias in Military Artificial Intelligence and Compliance with International Humanitarian Law",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2025-08/0825_ai_military_bias.pdf"
+    ]
+  },
+  {
+    "url": "https://www.sipri.org/publications/2025/other-publications/military-and-security-dimensions-quantum-technologies-primer",
+    "json": "articulos/2024-11-07_military-and-security-dimensions-quantum-technologies-primer.json",
+    "titulo": "Military and Security Dimensions of Quantum Technologies: A Primer",
+    "pdfs": [
+      "https://www.sipri.org/sites/default/files/2025-07/0725_military_and_security_dimensions_of_quantum_technologies_0.pdf"
+    ]
+  }
+]

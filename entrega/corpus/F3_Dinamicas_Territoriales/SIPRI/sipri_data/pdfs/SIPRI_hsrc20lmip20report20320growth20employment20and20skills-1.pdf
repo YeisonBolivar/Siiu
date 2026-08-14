@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head>
+  <meta charset="utf-8">
+  <link rel="alternate" type="application/rss+xml" title="Front page feed" href="/rss.xml">
+  <link rel="schema:dc" href="http://purl.org/dc/elements/1.1/">
+  <link rel="shortcut icon" href="/sites/all/themes/business/favicon.ico" type="image/vnd.microsoft.icon">
+  <title>Labour Market Intelligence Partnership</title>
+  <link type="text/css" rel="stylesheet" href="/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all">
+  <link type="text/css" rel="stylesheet" href="/sites/default/files/css/css_ldRNdLMniwkhzplGdoGWwxFoYzZlcDGCzNzW8HehpFc.css" media="all">
+  <link type="text/css" rel="stylesheet" href="/sites/default/files/css/css_MnXiytJtb186Ydycnpwpw34cuUsHaKc80ey5LiQXhSY.css" media="all">
+  <link type="text/css" rel="stylesheet" href="/sites/default/files/css/css_G6nkxTurwt2Thr3CKfeGajiEgvVnC9iwUudj09KFh10.css" media="all">
+  <script type="text/javascript" src="/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+  <script type="text/javascript" src="/sites/default/files/js/js_uiF75tUtWsZIPud4DMk7FvzKr_zA8oqdtm3l-SnQKJ0.js"></script>
+  <script type="text/javascript" src="/sites/default/files/js/js_fZ0ZrxHfQsHEUvFPDG2RUqyWjLMPro8HA9420elKmg8.js"></script>
+  <script type="text/javascript" src="/sites/default/files/js/js_UwO_0RHLq_nsvPwmX_QYU1JLTYOeZOvu0d7mUDYvhvQ.js"></script>
+  <script type="text/javascript">
+  <!--//--><![CDATA[//><!--
+  jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"business","theme_token":"lv4IZyPrY-mZve1_3OoTG6CeGeG_OQMzsLOM0v_5eRU","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/extlink\/extlink.js":1,"sites\/all\/themes\/business\/js\/sliding_effect.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/themes\/business\/js\/superfish.js":1,"sites\/all\/themes\/business\/js\/supersubs.js":1,"sites\/all\/themes\/business\/js\/sfmenu.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/lmip_repos\/css\/lmip_repos.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/extlink\/extlink.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/business\/style.css":1,"sites\/all\/themes\/business\/color\/colors.css":1}},"extlink":{"extTarget":"_blank","extClass":"ext","extLabel":"(link is external)","extImgClass":0,"extSubdomains":1,"extExclude":"(twitter\\.com)|(www\\.dhet.gov\\.za)|(www.\\wits\\.ac\\.za)|(www\\.dpru\\.uct\\.ac\\.za)|(www\\.hsrc\\.ac\\.za)|(lmip@hsrc\\.ac\\.za)","extInclude":"","extCssExclude":"span.nolink","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":"mailto","mailtoLabel":"(link sends e-mail)"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"}});
+  //--><!]]>
+  </script>
+  <script src="https://use.fontawesome.com/f97b5a73d7.js"></script>
+  <script src="/sites/all/themes/business/js/business.js"></script>
+</head>
+<body class="html front not-logged-in one-sidebar sidebar-first page-frontpage">
+  <div id="wrap">
+    <header id="header" class="clearfix" role="banner">
+      <div id="logo">
+        <a href="/" title="Home"><img src="/sites/all/themes/business/logo.png" alt="Home"></a>
+        <div id="social">
+          <form action="/sitesearch" method="get" accept-charset="UTF-8" style="vertical-align: middle; display: inline; margin: 0;">
+            <div style="vertical-align: top; margin-top: 7px; float: left;">
+              <input type="text" name="search_api_views_fulltext" value="" placeholder="Search" size="12" maxlength="128" class="form-text" style="vertical-align: top;">
+            </div>
+          </form>
+          <div id="slogan">
+            Establishing a credible mechanism for skills planning in South Africa
+          </div>
+        </div>
+      </div>
+      <nav id="navigation" class="clearfix" role="navigation">
+        <div id="main-menu">
+          <ul class="menu">
+            <li class="first leaf">
+              <a href="/" title="" class="active">Home</a>
+            </li>
+            <li class="leaf">
+              <a href="/search" title="">Repository</a>
+            </li>
+            <li class="collapsed">
+              <a href="/page/delivering-high-quality-labour-market-intelligence">Research</a>
+            </li>
+            <li class="collapsed">
+              <a href="/page/using-evidence-brief-policymakers-and-inform-policy-processes">Policy</a>
+            </li>
+            <li class="leaf">
+              <a href="/resources">Capacity</a>
+            </li>
+            <li class="leaf">
+              <a href="/lmippublications" title="">LMIP publications</a>
+            </li>
+            <li class="leaf">
+              <a href="/news-and-events" title="">Announcements</a>
+            </li>
+            <li class="collapsed">
+              <a href="/page/our-goal">About us</a>
+            </li>
+            <li class="last leaf">
+              <a href="/page/lmip-dhet-skills-planning-week-2016">2016 Colloquium</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </header>
+    <div id="slider">
+      <div class="main_view">
+        <div class="window">
+          <div class="image_reel">
+            <a class="tipsy" title="Click to learn more about our research" href="/theme/information-systems"><img src="/sites/all/themes/business/images/slide-image-1.png"></a> <a class="tipsy" title="Click to learn more about our research" href="/theme/skills-forecasting"><img src="/sites/all/themes/business/images/slide-image-2.png"></a> <a class="tipsy" title="Click to learn more about our research" href="/theme/priority-sectors"><img src="/sites/all/themes/business/images/slide-image-3.png"></a> <a class="tipsy" title="Click to learn more about our research" href="/theme/post-school-sector"><img src="/sites/all/themes/business/images/slide-image-4.png"></a> <a class="tipsy" title="Click to learn more about our research" href="/theme/pathway-studies"><img src="/sites/all/themes/business/images/slide-image-5.png"></a> <a class="tipsy" title="Click to learn more about our research" href="/theme/occupational-milieus"><img src="/sites/all/themes/business/images/slide-image-6.png"></a>
+          </div>
+          <div class="descriptions">
+            <div class="desc" style="display: none;">
+              <p>Establishing a foundation for labour market information systems in South Africa</p>
+            </div>
+            <div class="desc" style="display: none;">
+              <p>Skills forecasting: supply and demand</p>
+            </div>
+            <div class="desc" style="display: none;">
+              <p>Studies of priority sectors</p>
+            </div>
+            <div class="desc" style="display: none;">
+              <p>Reconfiguring the post-school sector</p>
+            </div>
+            <div class="desc" style="display: none;">
+              <p>Pathways through education and training and into the workplace</p>
+            </div>
+            <div class="desc" style="display: none;">
+              <p>Understanding changing artisanal occupational milieus and identities</p>
+            </div>
+          </div>
+        </div>
+        <div class="paging">
+          <a rel="1" href="#">1</a> <a rel="2" href="#">2</a> <a rel="3" href="#">3</a> <a rel="4" href="#">4</a> <a rel="5" href="#">5</a> <a rel="6" href="#">6</a>
+        </div>
+      </div>
+    </div>
+    <div id="main" class="clearfix">
+      <section id="post-content" role="main">
+        <div id="home-quote">
+          <div class="region region-homequotes">
+            <div id="block-block-6" class="block block-block">
+              <h2>Welcome to the Labour Market Intelligence Partnership</h2>
+              <div class="content">
+                <p>We do research and convene policy roundtables in support of the South African government’s goal to build a national skills planning mechanism.</p>
+                <div class="button">
+                  <a href="/page/our-goal">Learn more</a>
+                </div>
+                <div class="button">
+                  <a href="/cdn-cgi/l/email-protection#b0dcddd9c0f0d8c3c2d39ed1d39ecad1">Contact us</a>
+                </div>
+                <div class="clearfix">
+                  &nbsp;
+                </div>
+              </div>
+            </div>
+            <div id="block-block-8" class="block block-block">
+              <div class="content">
+                <h2 style="color: black;">Colloquium 2016</h2>
+                <p>From 26-30 September 2016 the Labour Market Intelligence Partnership and the Department of Higher Education will host a dedicated series of <a href="https://bitcoincasinosa.co.za/">Bitcoin Casino SA</a> research and policy workshops.</p>
+                <div class="button">
+                  <a href="/page/lmip-dhet-skills-planning-week-2016">Learn more</a>
+                </div>
+                <div class="clearfix">
+                  &nbsp;
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="home-highlights" class="clearfix">
+          <div class="home-highlight-box">
+            <div class="region region-home-high1">
+              <div id="block-views-news-and-events-block-3" class="block block-views">
+                <h2>News and events</h2>
+                <div class="content">
+                  <div class="view view-news-and-events view-id-news_and_events view-display-id-block_3 view-dom-id-685e1584a3d2dfece018fb83c76994ec">
+                    <div class="view-content">
+                      <div class="views-row views-row-1 views-row-odd views-row-first">
+                        <div class="views-field views-field-title">
+                          <span class="field-content"><a href="/news/ddg-firoz-patel">DDG Firoz Patel</a></span>
+                        </div>
+                        <div>
+                          <span>Date:</span> <span><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-04-05T00:00:00+02:00">Thursday, 5 April 2018</span></span>
+                        </div>
+                        <div class="views-field views-field-nothing">
+                          <span class="field-content"><br></span>
+                        </div>
+                      </div>
+                      <div class="views-row views-row-2 views-row-even">
+                        <div class="views-field views-field-title">
+                          <span class="field-content"><a href="/event/lmip-close-out-meeting">LMIP Close-out meeting</a></span>
+                        </div>
+                        <div>
+                          <span>Event date:</span> <span><span class="date-display-single">Tuesday, 14 November 2017 -</span></span>
+                          <div class="date-display-range">
+                            <span><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2017-11-14T09:00:00+02:00">9:00am</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2017-11-14T16:30:00+02:00">4:30pm</span></span>
+                          </div>
+                        </div>
+                        <div class="views-field views-field-nothing">
+                          <span class="field-content"><br></span>
+                        </div>
+                      </div>
+                      <div class="views-row views-row-3 views-row-odd views-row-last">
+                        <div class="views-field views-field-title">
+                          <span class="field-content"><a href="/news/lmip-update-2016">LMIP Update 2016</a></span>
+                        </div>
+                        <div>
+                          <span>Date:</span> <span><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2016-11-28T00:00:00+02:00">Monday, 28 November 2016</span></span>
+                        </div>
+                        <div class="views-field views-field-nothing">
+                          <span class="field-content"><br></span>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="more-link">
+                      <a href="/news-and-events">Read more announcements</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="home-highlight-box">
+            <div class="region region-home-high2">
+              <div id="block-views-message-to-the-minister-block-1" class="block block-views">
+                <h2>Latest LMIP Briefing</h2>
+                <div class="content">
+                  <div class="view view-message-to-the-minister view-id-message_to_the_minister view-display-id-block_1 view-dom-id-216ee044c42ea33cca74fe0226cb29fa">
+                    <div class="view-content">
+                      <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+                        <div class="views-field views-field-title">
+                          <span class="field-content"><a href="/content/lmip-briefing-24">LMIP Briefing 24</a></span>
+                        </div>
+                        <div class="views-field views-field-body">
+                          <div class="field-content">
+                            <p style="text-align: left;">The South African labour force is made up of 15 million employed and 7.5 million unemployed persons <a href="https://aucasinosonline.com/sa/">https://aucasinosonline.com/sa/</a>. Three quarters of the employed and 90% of the unemployed are from the African population group. Two thirds of the population is less than 34 years of age and one third are between the age of 15 and 34 years. Unemployment is particularly high amongst youth (15 to 34 years) and this is increasing as more young people join the labour force.</p>
+                          </div>
+                        </div>
+                        <div>
+                          <span><br></span>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="more-link">
+                      <a href="/lmip-initiatives">Read more LMIP Briefings</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="region region-content">
+          <div id="block-block-2" class="block block-block">
+            <h2>An important step</h2>
+            <div class="content">
+              <p><em>"The LMIP research project marks an important step in contributing towards the creation of a credible labour market intelligence framework - the establishment of a functional interface that will ensure better information gathering, analysis and overall systems synergy in pursuit of a skills development agenda that is developmental, forward-looking and embedded in empirical analysis."</em></p>
+              <p>– Minister of higher education and training, Blade Nzimande, speaking at the launch of the Labour Market Intelligence Partnership with <a href="https://africacasinos.co.za/">Africa Casinos</a> in 2012</p>
+            </div>
+          </div>
+          <div id="block-views-documents-block-1" class="block block-views">
+            <h2>Latest LMIP publications</h2>
+            <div class="content">
+              <div class="view view-documents view-id-documents view-display-id-block_1 view-dom-id-33af421c5fabdd34758aa7ef0f666539">
+                <div class="view-content">
+                  <div class="views-row views-row-1 views-row-odd views-row-first">
+                    <div class="views-field views-field-title">
+                      <span class="field-content"><a href="/document/skills-supply-and-demand-south-africa">Skills supply and demand in South Africa</a></span>
+                    </div>
+                    <div>
+                      <span>Author(s):</span> <span><a href="/taxonomy/author/reddy-v-0" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Reddy, V.</a>, <a href="/taxonomy/author/bhorat-h-0" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Bhorat, H.</a>, <a href="/taxonomy/author/powell-m-0" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Powell, M.</a>, <a href="/taxonomy/author/visser-m-2" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Visser, M.</a>, <a href="/taxonomy/author/arends-f-3" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Arends, F.</a></span>
+                    </div>
+                    <div>
+                      <span>Publication year:</span> <span>2016</span>
+                    </div>
+                    <div class="views-field views-field-nothing">
+                      <span class="field-content"><br></span>
+                    </div>
+                  </div>
+                  <div class="views-row views-row-2 views-row-even">
+                    <div class="views-field views-field-title">
+                      <span class="field-content"><a href="/document/evolution-national-student-financial-aid-scheme-nsfas-funding">The evolution of National Student Financial Aid Scheme (NSFAS) funding</a></span>
+                    </div>
+                    <div>
+                      <span>Author(s):</span> <span><a href="/taxonomy/author/bhorat-h-3" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Bhorat, H</a>, <a href="/taxonomy/author/kimani-m" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Kimani, M</a>, <a href="/taxonomy/author/pillay-n-0" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Pillay, N</a></span>
+                    </div>
+                    <div>
+                      <span>Publication year:</span> <span>2018</span>
+                    </div>
+                    <div class="views-field views-field-nothing">
+                      <span class="field-content"><br></span>
+                    </div>
+                  </div>
+                  <div class="views-row views-row-3 views-row-odd views-row-last">
+                    <div class="views-field views-field-title">
+                      <span class="field-content"><a href="/document/occupations-high-demand-south-africa">Occupations in high demand in South Africa</a></span>
+                    </div>
+                    <div>
+                      <span>Author(s):</span> <span><a href="/taxonomy/author/reddy-v-2" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Reddy, V</a>, <a href="/taxonomy/author/rogan-m-0" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Rogan, M</a>, <a href="/taxonomy/author/mncwango-b" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Mncwango, B</a>, <a href="/taxonomy/author/chabane-s-1" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Chabane, S</a></span>
+                    </div>
+                    <div>
+                      <span>Publication year:</span> <span>2018</span>
+                    </div>
+                    <div class="views-field views-field-nothing">
+                      <span class="field-content"><br></span>
+                    </div>
+                  </div>
+                </div>
+                <div class="view-footer">
+                  <h3>Researching SA labour market issues?</h3>We've catalogued hundreds of research reports, dissertations and government papers in our repository.
+                  <form action="/search" method="get" id="views-exposed-form-advanced-search-page" accept-charset="UTF-8" name="views-exposed-form-advanced-search-page">
+                    <div class="form-item form-type-textfield form-item-search-api-views-fulltext">
+                      <strong>Enter keywords</strong>&nbsp;&nbsp; <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="50" maxlength="128" class="form-text">&nbsp;&nbsp; <input type="submit" id="edit-submit-advanced-search" name="" value="Search" class="form-submit">
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div id="block-block-7" class="block block-block">
+            <div class="content">
+              <p>The Labour Market Intelligence Partnership conducts research to inform monitoring, planning, and policymaking for more effective skills development and equitable labour markets in South Africa. Follow us on Twitter @LMIP_RSA. Write to us on <span class="nolink">lmip[at]hsrc.ac.za</span>.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+      <aside id="sidebar" role="complementary" class="sidebar clearfix">
+        <div class="region region-sidebar-first">
+          <div id="block-block-5" class="block block-block">
+            <div class="content">
+              Tweets by LMIP_RSA 
+              <p><a href="https://onlinecasinogo.ng/">Best online casinos in Nigeria at onlinecasinogo.ng</a>!</p>
+              <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script> 
+              <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </div>
+          </div>
+        </div>
+      </aside>
+    </div>
+    <div class="clear"></div>
+    <div class="region region-footer">
+      <div id="block-block-1" class="block block-block">
+        <div class="content">
+          <hr>
+          <p style="width: 100%; text-align: center;"><img style="padding: 0 6px;" src="/sites/default/files/pictures/dhet.png" alt="" width="221" height="100"> <img style="padding: 0 6px;" src="/sites/default/files/pictures/wits.png" alt="" width="96" height="100"> <img style="padding: 0 6px;" src="/sites/default/files/pictures/dpru.png" alt="" width="299" height="100"> <img style="padding: 0 6px;" src="/sites/default/files/pictures/hsrc.png" alt="" width="216" height="100"></p>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

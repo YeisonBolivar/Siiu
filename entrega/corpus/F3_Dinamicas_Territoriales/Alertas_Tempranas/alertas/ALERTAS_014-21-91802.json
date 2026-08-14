@@ -1,0 +1,22 @@
+{
+  "url": "https://alertastempranas.defensoria.gov.co/Alerta/Details/91802",
+  "title": "Mapa",
+  "fields": {},
+  "body_paragraphs": [
+    "Veredas: RÍO GRANDE; POTRERILLO; SAN PABLO; ALTO ZABALETA; RESTREPO",
+    "ELN Facciones disidentes de las FARC-EP",
+    "El escenario de riesgo se configura por la posible expansión acelerada de las facciones disidentes de las antiguas FARC-EP, el ELN y otros presuntos grupos ilegales sin identificar.",
+    "Adolescentes; Jóvenes; Campesinos"
+  ],
+  "pdf_links": [],
+  "doc_links": [],
+  "alerta_meta": {
+    "codigo": "014-21",
+    "tipo": "Inminencia",
+    "fecha_emision": "2021-07-14",
+    "tema_clave": "El escenario de riesgo se configura por la posible expansión acelerada de las facciones disidentes de las antiguas FARC-EP, el ELN y otros presuntos grupos ilegales sin identificar.",
+    "municipios": "Restrepo (Valle del Cauca)",
+    "detail_url": "https://alertastempranas.defensoria.gov.co/Alerta/Details/91802",
+    "detail_id": "91802"
+  }
+}

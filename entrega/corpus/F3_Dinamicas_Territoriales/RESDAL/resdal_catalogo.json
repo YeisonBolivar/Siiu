@@ -1,0 +1,278 @@
+[
+  {
+    "url": "https://www.resdal.org/assets/Collaborative%20Research%20report%20-%202021-13828.pdf",
+    "file": "pdfs/Publicaciones/Collaborative_Research_report_-_2021-13828.pdf",
+    "desde": "seed",
+    "status": "ok"
+  },
+  {
+    "url": "https://www.resdal.org/ing/atlas/atlas-2012-ing-completo.pdf",
+    "file": "pdfs/Atlas_Anteriores/atlas-2012-ing-completo.pdf",
+    "desde": "seed",
+    "status": "ok"
+  },
+  {
+    "url": "https://www.resdal.org/atlas/atlas-completo2010-ingles.pdf",
+    "file": "pdfs/Atlas_Anteriores/atlas-completo2010-ingles.pdf",
+    "desde": "seed",
+    "status": "ok"
+  },
+  {
+    "url": "https://www.resdal.org/ebook/AtlasRESDAL2008-eng/print/atlas-completo.pdf",
+    "file": "pdfs/Atlas_Anteriores/atlas-completo.pdf",
+    "desde": "seed",
+    "status": "ok"
+  },
+  {
+    "url": "https://www.resdal.org/ebook/AtlasRESDAL2007/print/atlas-completo.pdf",
+    "file": "pdfs/Atlas_Anteriores/atlas-completo_2.pdf",
+    "desde": "seed",
+    "status": "ok"
+  },
+  {
+    "url": "https://www.resdal.org/atlas/atlas-2005-esp.pdf",
+    "file": "pdfs/Atlas_Anteriores/atlas-2005-esp.pdf",
+    "desde": "seed",
+    "status": "ok"
+  },
+  {
+    "url": "https://www.resdal.org/assets/ATLAS-2024-ESP.pdf",
+    "file": "pdfs/Atlas_2024/ATLAS-2024-ESP.pdf",
+    "desde": "https://www.resdal.org/esp/Defensa---Atlas.html",
+    "status": "ok"
+  },
+  {
+    "url": "https://www.resdal.org/esp/files/0-ESP-PrimerasLaRegion.pdf",
+    "file": "pdfs/Atlas_2024/0-ESP-PrimerasLaRegion.pdf",
+    "desde": "https://www.resdal.org/esp/Defensa---Atlas.html",
+    "status": "ok"
+  },
+  {
+    "url": "https://www.resdal.org/esp/files/01-ESP-El_Marco_Legal.pdf",
+    "file": "pdfs/Atlas_2024/01-ESP-El_Marco_Legal.pdf",
+    "desde": "https://www.resdal.org/esp/Defensa---Atlas.html",
+    "status": "ok"
+  },
+  {
+    "url": "https://www.resdal.org/esp/files/02-ESP-Las_Instituciones.pdf",
+    "file": "pdfs/Atlas_2024/02-ESP-Las_Instituciones.pdf",
+    "desde": "https://www.resdal.org/esp/Defensa---Atlas.html",
+    "status": "ok"
+  },
+  {
+    "url": "https://www.resdal.org/esp/files/03-ESP-ElPresupuesto.pdf",
+    "file": "pdfs/Atlas_2024/03-ESP-ElPresupuesto.pdf",
+    "desde": "https://www.resdal.org/esp/Defensa---Atlas.html",
+    "status": "ok"
+  },
+  {
+    "url": "https://www.resdal.org/esp/files/04-ESP-LasFuerzasArmadas.pdf",
+    "file": "pdfs/Atlas_2024/04-ESP-LasFuerzasArmadas.pdf",
+    "desde": "https://www.resdal.org/esp/Defensa---Atlas.html",
+    "status": "ok"
+  },
+  {
+    "url": "https://www.resdal.org/esp/files/05-ESP-RelacionesInternacionales.pdf",
+    "file": "pdfs/Atlas_2024/05-ESP-RelacionesInternacionales.pdf",
+    "desde": "https://www.resdal.org/esp/Defensa---Atlas.html",
+    "status": "ok"
+  },
+  {
+    "url": "https://www.resdal.org/esp/files/06-ESP-MujerPazySeguridad.pdf",
+    "file": "pdfs/Atlas_2024/06-ESP-MujerPazySeguridad.pdf",
+    "desde": "https://www.resdal.org/esp/Defensa---Atlas.html",
+    "status": "ok"
+  },
+  {
+    "url": "https://www.resdal.org/esp/files/07-ESP-GestiondelRiesgoyemergencias.pdf",
+    "file": "pdfs/Atlas_2024/07-ESP-GestiondelRiesgoyemergencias.pdf",
+    "desde": "https://www.resdal.org/esp/Defensa---Atlas.html",
+    "status": "ok"
+  },
+  {
+    "url": "https://www.resdal.org/esp/files/08-ESP-Caribe.pdf",
+    "file": "pdfs/Atlas_2024/08-ESP-Caribe.pdf",
+    "desde": "https://www.resdal.org/esp/Defensa---Atlas.html",
+    "status": "ok"
+  },
+  {
+    "url": "https://www.resdal.org/esp/files/9-ESP-Argentina.pdf",
+    "file": "pdfs/Atlas_2024/9-ESP-Argentina.pdf",
+    "desde": "https://www.resdal.org/esp/Defensa---Atlas.html",
+    "status": "ok"
+  },
+  {
+    "url": "https://www.resdal.org/esp/files/10-ESP-Bolivia.pdf",
+    "file": "pdfs/Atlas_2024/10-ESP-Bolivia.pdf",
+    "desde": "https://www.resdal.org/esp/Defensa---Atlas.html",
+    "status": "ok"
+  },
+  {
+    "url": "https://www.resdal.org/esp/files/11-ESP-Brasil.pdf",
+    "file": "pdfs/Atlas_2024/11-ESP-Brasil.pdf",
+    "desde": "https://www.resdal.org/esp/Defensa---Atlas.html",
+    "status": "ok"
+  },
+  {
+    "url": "https://www.resdal.org/esp/files/12-ESP-Chile.pdf",
+    "file": "pdfs/Atlas_2024/12-ESP-Chile.pdf",
+    "desde": "https://www.resdal.org/esp/Defensa---Atlas.html",
+    "status": "ok"
+  },
+  {
+    "url": "https://www.resdal.org/esp/files/13-ESP-Colombia.pdf",
+    "file": "pdfs/Atlas_2024/13-ESP-Colombia.pdf",
+    "desde": "https://www.resdal.org/esp/Defensa---Atlas.html",
+    "status": "ok"
+  },
+  {
+    "url": "https://www.resdal.org/esp/files/14-ESP-Costa-Rica.pdf",
+    "file": "pdfs/Atlas_2024/14-ESP-Costa-Rica.pdf",
+    "desde": "https://www.resdal.org/esp/Defensa---Atlas.html",
+    "status": "ok"
+  },
+  {
+    "url": "https://www.resdal.org/esp/files/15-ESP-Cuba.pdf",
+    "file": "pdfs/Atlas_2024/15-ESP-Cuba.pdf",
+    "desde": "https://www.resdal.org/esp/Defensa---Atlas.html",
+    "status": "ok"
+  },
+  {
+    "url": "https://www.resdal.org/esp/files/16-ESP-Ecuador.pdf",
+    "file": "pdfs/Atlas_2024/16-ESP-Ecuador.pdf",
+    "desde": "https://www.resdal.org/esp/Defensa---Atlas.html",
+    "status": "ok"
+  },
+  {
+    "url": "https://www.resdal.org/esp/files/17-ESP-ElSalvador.pdf",
+    "file": "pdfs/Atlas_2024/17-ESP-ElSalvador.pdf",
+    "desde": "https://www.resdal.org/esp/Defensa---Atlas.html",
+    "status": "ok"
+  },
+  {
+    "url": "https://www.resdal.org/esp/files/18-ESP-Guatemala.pdf",
+    "file": "pdfs/Atlas_2024/18-ESP-Guatemala.pdf",
+    "desde": "https://www.resdal.org/esp/Defensa---Atlas.html",
+    "status": "ok"
+  },
+  {
+    "url": "https://www.resdal.org/esp/files/19-ESP-Haiti.pdf",
+    "file": "pdfs/Atlas_2024/19-ESP-Haiti.pdf",
+    "desde": "https://www.resdal.org/esp/Defensa---Atlas.html",
+    "status": "ok"
+  },
+  {
+    "url": "https://www.resdal.org/esp/files/20-ESP-Honduras.pdf",
+    "file": "pdfs/Atlas_2024/20-ESP-Honduras.pdf",
+    "desde": "https://www.resdal.org/esp/Defensa---Atlas.html",
+    "status": "ok"
+  },
+  {
+    "url": "https://www.resdal.org/esp/files/21-ESP-Mexico.pdf",
+    "file": "pdfs/Atlas_2024/21-ESP-Mexico.pdf",
+    "desde": "https://www.resdal.org/esp/Defensa---Atlas.html",
+    "status": "ok"
+  },
+  {
+    "url": "https://www.resdal.org/esp/files/22-ESP-Nicaragua.pdf",
+    "file": "pdfs/Atlas_2024/22-ESP-Nicaragua.pdf",
+    "desde": "https://www.resdal.org/esp/Defensa---Atlas.html",
+    "status": "ok"
+  },
+  {
+    "url": "https://www.resdal.org/esp/files/23-ESP-Panama.pdf",
+    "file": "pdfs/Atlas_2024/23-ESP-Panama.pdf",
+    "desde": "https://www.resdal.org/esp/Defensa---Atlas.html",
+    "status": "ok"
+  },
+  {
+    "url": "https://www.resdal.org/esp/files/24-ESP-Paraguay.pdf",
+    "file": "pdfs/Atlas_2024/24-ESP-Paraguay.pdf",
+    "desde": "https://www.resdal.org/esp/Defensa---Atlas.html",
+    "status": "ok"
+  },
+  {
+    "url": "https://www.resdal.org/esp/files/25-ESP-Peru.pdf",
+    "file": "pdfs/Atlas_2024/25-ESP-Peru.pdf",
+    "desde": "https://www.resdal.org/esp/Defensa---Atlas.html",
+    "status": "ok"
+  },
+  {
+    "url": "https://www.resdal.org/esp/files/26-ESP-Republica_Dominicana.pdf",
+    "file": "pdfs/Atlas_2024/26-ESP-Republica_Dominicana.pdf",
+    "desde": "https://www.resdal.org/esp/Defensa---Atlas.html",
+    "status": "ok"
+  },
+  {
+    "url": "https://www.resdal.org/esp/files/27-ESP-Uruguay.pdf",
+    "file": "pdfs/Atlas_2024/27-ESP-Uruguay.pdf",
+    "desde": "https://www.resdal.org/esp/Defensa---Atlas.html",
+    "status": "ok"
+  },
+  {
+    "url": "https://www.resdal.org/esp/files/28-ESP-Venezuela.pdf",
+    "file": "pdfs/Atlas_2024/28-ESP-Venezuela.pdf",
+    "desde": "https://www.resdal.org/esp/Defensa---Atlas.html",
+    "status": "ok"
+  },
+  {
+    "url": "https://www.resdal.org/esp/files/ESP-LosPaises.pdf",
+    "file": "pdfs/Atlas_2024/ESP-LosPaises.pdf",
+    "desde": "https://www.resdal.org/esp/Defensa---Atlas.html",
+    "status": "ok"
+  },
+  {
+    "url": "https://www.resdal.org/assets/Acoso-y-AB-Sex-En-instituciones-de-defensa.pdf",
+    "file": "pdfs/Publicaciones/Acoso-y-AB-Sex-En-instituciones-de-defensa.pdf",
+    "desde": "https://www.resdal.org/esp/Publicaciones-1.html",
+    "status": "ok"
+  },
+  {
+    "url": "https://www.resdal.org/esp/files/MPyS-01-Culturaorganizacional.pdf",
+    "file": "pdfs/Atlas_2024/MPyS-01-Culturaorganizacional.pdf",
+    "desde": "https://www.resdal.org/esp/Publicaciones-1.html",
+    "status": "ok"
+  },
+  {
+    "url": "https://www.resdal.org/assets/Contemplating%20trends%20for%202023%20in%20security%20and%20democracy%20-%20A%20Cross%20Regional%20Collaboration%20%20with%20Inputs%20From%20Experts%20Around%20The%20World.pdf",
+    "file": "pdfs/Publicaciones/Contemplating_trends_for_2023_in_security_and_democracy_-_A_Cross_Regional_Collaboration_with_Inputs_From_Experts_Around_The_World",
+    "desde": "https://www.resdal.org/esp/Publicaciones-1.html",
+    "status": "ok"
+  },
+  {
+    "url": "https://www.resdal.org/ing/assets/BoletinCOVIDi.pdf",
+    "file": "pdfs/Publicaciones/BoletinCOVIDi.pdf",
+    "desde": "https://www.resdal.org/esp/Publicaciones-1.html",
+    "status": "ok"
+  },
+  {
+    "url": "https://www.resdal.org/ing/assets/resdal-newsletter_covid-n2_eng_final.pdf",
+    "file": "pdfs/Publicaciones/resdal-newsletter_covid-n2_eng_final.pdf",
+    "desde": "https://www.resdal.org/esp/Publicaciones-1.html",
+    "status": "ok"
+  },
+  {
+    "url": "https://www.dcaf.ch/sites/default/files/publications/documents/Uruguay_Elsie_Barrier_Version%20final.pdf",
+    "file": "pdfs/Publicaciones/Uruguay_Elsie_Barrier_Version_final.pdf",
+    "desde": "https://www.resdal.org/esp/Publicaciones-1.html",
+    "status": "ok"
+  },
+  {
+    "url": "https://www.dcaf.ch/sites/default/files/publications/documents/Uruguay_Elsie_MOWIP_English_Final_0.pdf",
+    "file": "pdfs/Publicaciones/Uruguay_Elsie_MOWIP_English_Final_0.pdf",
+    "desde": "https://www.resdal.org/esp/Publicaciones-1.html",
+    "status": "ok"
+  },
+  {
+    "url": "https://www.resdal.org/assets/Boletin_COVID_3_esp.pdf",
+    "file": "pdfs/Publicaciones/Boletin_COVID_3_esp.pdf",
+    "desde": "https://www.resdal.org/esp/Publicaciones-1.html",
+    "status": "ok"
+  },
+  {
+    "url": "https://www.resdal.org/assets/resdal-policy_brief_mena-final.pdf",
+    "file": "pdfs/Publicaciones/resdal-policy_brief_mena-final.pdf",
+    "desde": "https://www.resdal.org/esp/Publicaciones-1.html",
+    "status": "ok"
+  }
+]

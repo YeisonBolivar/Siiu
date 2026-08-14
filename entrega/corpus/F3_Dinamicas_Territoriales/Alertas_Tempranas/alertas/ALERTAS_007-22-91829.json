@@ -1,0 +1,22 @@
+{
+  "url": "https://alertastempranas.defensoria.gov.co/Alerta/Details/91829",
+  "title": "Mapa",
+  "fields": {},
+  "body_paragraphs": [
+    "Autodefensas Gaitanistas de Colombia (AGC)",
+    "004-22 005-20 018-20 022-18 035-19",
+    "El escenario de riesgo se relaciona con la reconfiguración de la primera línea de mando de las AGC.",
+    "Población socialmente estigmatizada; Jóvenes; Comerciantes; Transportadores; Personas en ejercicio de la prostitución; Población migrante; Niños y niñas; Mujeres; Personas defensoras de Derechos Humanos, líderes y lideresas sociales"
+  ],
+  "pdf_links": [],
+  "doc_links": [],
+  "alerta_meta": {
+    "codigo": "007-22",
+    "tipo": "Inminencia",
+    "fecha_emision": "2022-03-04",
+    "tema_clave": "El escenario de riesgo se relaciona con la reconfiguración de la primera línea de mando de las AGC.",
+    "municipios": "Cereté, Montería, San Pelayo (Córdoba)",
+    "detail_url": "https://alertastempranas.defensoria.gov.co/Alerta/Details/91829",
+    "detail_id": "91829"
+  }
+}
