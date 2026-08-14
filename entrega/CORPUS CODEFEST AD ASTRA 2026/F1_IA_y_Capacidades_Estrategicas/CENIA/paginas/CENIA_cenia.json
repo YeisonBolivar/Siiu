@@ -1,0 +1,152 @@
+{
+  "url": "https://cenia.cl/cenia/",
+  "title": "Cenia - CENIA",
+  "sections": [
+    {
+      "heading": "SOMOS PERSONAS TRABAJANDO PARA PERSONAS",
+      "paragraphs": []
+    },
+    {
+      "heading": "Soñamos con un país más próspero, más alegre y más inclusivo",
+      "paragraphs": []
+    },
+    {
+      "heading": "Trabajamos por y paralas personas",
+      "paragraphs": []
+    },
+    {
+      "heading": "Contamos con el apoyo de un amplio espectro del sistema universitario",
+      "paragraphs": []
+    },
+    {
+      "heading": "Somos una corporaciónsin fines de lucro",
+      "paragraphs": []
+    },
+    {
+      "heading": "Promovemos un desarrollo armónico con el medioambiente",
+      "paragraphs": []
+    },
+    {
+      "heading": "Promovemos un futurotecnológico ético y humano",
+      "paragraphs": []
+    },
+    {
+      "heading": "NUESTROS VALORES",
+      "paragraphs": [
+        "Somos socialmente responsables. Desarrollamos soluciones de IA de manera sustentable y ética, buscando ser un aporte a través de los desarrollos del Centro para mejorar la calidad de vida de las personas. Estamos especialmente comprometidos a acercar la IA a comunidades con acceso limitado a tecnología, a través de la asociación con agentes públicos y privados. Por último, lideramos acciones que buscan educar y comunicar los beneficios y riesgos de la IA en diversos espacios.",
+        "Excelencia Aspiramos a una alta excelencia. Entendemos la importancia de una participación activa y proactiva. Nos desenvolvemos con un genuino interés en aportar a otros, brindando nuestro máximo esfuerzo en todas nuestras labores.",
+        "Construimos relaciones de confianza entre todos nuestros colaboradores, promoviendo la comunicación directa y transparente, en favor de la inclusión, el respeto y la empatía. Creemos en la comprensión y tolerancia. Valoramos a todas las personas y rechazamos todo tipo de discriminación, acoso y violencia.",
+        "Trabajamos por construir un ambiente grato que promueva el intercambio de ideas, conocimiento y desarrollo de relaciones de amistad, cuidando que el logro de nuestros objetivos se realice en una organización saludable y acogedora. Buscamos la transparencia en las formas de trabajo de todos los equipos y áreas, nos importa que todos y todas tengan acceso y conocimiento en cómo funciona el Centro."
+      ]
+    }
+  ],
+  "lists": [
+    "{{ item.title }}"
+  ],
+  "links": [
+    {
+      "text": "Comunidad Cenia How To",
+      "url": "https://cenia.cl/how-to"
+    },
+    {
+      "text": "Inicio",
+      "url": "https://cenia.cl/"
+    },
+    {
+      "text": "Nosotros",
+      "url": "https://cenia.cl/cenia/"
+    },
+    {
+      "text": "Cenia",
+      "url": "https://cenia.cl/cenia/"
+    },
+    {
+      "text": "Operaciones",
+      "url": "https://cenia.cl/operaciones/"
+    },
+    {
+      "text": "Investigación",
+      "url": "https://cenia.cl/investigacion/"
+    },
+    {
+      "text": "Transferencia Tecnológica",
+      "url": "https://cenia.cl/transferencia/"
+    },
+    {
+      "text": "Vinculación con medio",
+      "url": "https://cenia.cl/vinculacion/"
+    },
+    {
+      "text": "Estudiantes",
+      "url": "https://cenia.cl/estudiantes/"
+    },
+    {
+      "text": "¿Qué hacemos?",
+      "url": "https://cenia.cl/cenia/"
+    },
+    {
+      "text": "Vinculación",
+      "url": "https://cenia.cl/vinculacion/"
+    },
+    {
+      "text": "Capacitación y formación",
+      "url": "https://cenia.cl/capacitacion-y-formacion/"
+    },
+    {
+      "text": "Noticias",
+      "url": "https://cenia.cl/noticias/"
+    },
+    {
+      "text": "Contacto",
+      "url": "https://cenia.cl/contacto/"
+    },
+    {
+      "text": "Transparencia",
+      "url": "https://cenia.cl/transparencia/"
+    }
+  ],
+  "pdf_links": [],
+  "images": [
+    {
+      "src": "https://cenia.cl/wp-content/themes/urantiacoscenia/assets/images/X.png",
+      "alt": "twitter"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Trabajamos-para-personas-300x300.png",
+      "alt": "Trabajamos para personas"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Apoyo-universidades-150x150.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Sin-fines-de-lucro-150x150.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Desarrollo-sostenible-150x150.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Futuro-tecnologico-etico-y-humano-150x150.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/compromiso-publico.png",
+      "alt": "compromiso publico"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/excelencia.png",
+      "alt": "excelencia"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/diversidad.png",
+      "alt": "diversidad"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/cultura-de-equipo.png",
+      "alt": "cultura de equipo"
+    }
+  ],
+  "contenido_limitado": false
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "nombre": "GEIAL_Medellin",
+    "titulo": "Informe GEIAL – Ecosistemas Inteligentes América Latina (Medellín)",
+    "url": "https://info.rutanmedellin.org/hubfs/Informe%20GEIAL%20Medellin.pdf?hsLang=es-co",
+    "fuente": "Observatorio CTI – Ruta N",
+    "fenomeno": "F1 - IA y capacidades estratégicas",
+    "idioma": "Español",
+    "status": "ok",
+    "size_bytes": 6664706,
+    "path": "rutan_pdfs/GEIAL_Medellin.pdf",
+    "scraped_at": "2026-07-15T19:51:23.085845Z"
+  },
+  {
+    "nombre": "GEIAL_LATAM",
+    "titulo": "Informe GEIAL – Ecosistemas Inteligentes América Latina (LATAM)",
+    "url": "https://info.rutanmedellin.org/hubfs/Informe%20GEIAL%20LATAM.pdf?hsLang=es-co",
+    "fuente": "Observatorio CTI – Ruta N",
+    "fenomeno": "F1 - IA y capacidades estratégicas",
+    "idioma": "Español",
+    "status": "ok",
+    "size_bytes": 8327338,
+    "path": "rutan_pdfs/GEIAL_LATAM.pdf",
+    "scraped_at": "2026-07-15T19:51:24.943476Z"
+  }
+]

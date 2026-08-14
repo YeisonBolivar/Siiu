@@ -1,0 +1,32 @@
+[
+  {
+    "feed": "General",
+    "url": "https://defensa21latam.com/feed/",
+    "status": "error",
+    "entries": 0
+  },
+  {
+    "feed": "Publicaciones",
+    "url": "https://defensa21latam.com/category/publicaciones/feed/",
+    "status": "error",
+    "entries": 0
+  },
+  {
+    "feed": "Seguridad y Defensa",
+    "url": "https://defensa21latam.com/category/seguridad-y-defensa/feed/",
+    "status": "error",
+    "entries": 0
+  },
+  {
+    "feed": "Ciberseguridad",
+    "url": "https://defensa21latam.com/category/ciberseguridad/feed/",
+    "status": "error",
+    "entries": 0
+  },
+  {
+    "feed": "Tecnología Militar",
+    "url": "https://defensa21latam.com/category/tecnologia-militar/feed/",
+    "status": "error",
+    "entries": 0
+  }
+]

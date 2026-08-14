@@ -1,0 +1,1406 @@
+{
+  "url": "https://cenia.cl/investigacion/",
+  "title": "Investigación - CENIA",
+  "sections": [
+    {
+      "heading": "LÍNEAS DE INVESTIGACIÓN",
+      "paragraphs": [
+        "En nuestro equipo de investigación la curiosidad nunca se agota. Cada uno de nosotros(as) aporta una perspectiva única, una habilidad especial y pasión a este equipo. Nos complementamos y nos desafiamos constantemente para alcanzar nuevas alturas. No importa cuánto hayamos logrado hasta ahora, siempre sabemos que hay más por descubrir, explorar y crear. La IA es un campo en constante evolución, y estamos aquí para liderar el camino."
+      ]
+    },
+    {
+      "heading": "RL1 / Aprendizaje profundo para visión y lenguaje",
+      "paragraphs": [
+        "Nuevas teorías y métodos para continuar desentrañando el potencial del Aprendizaje Profundo para crear sistemas cognitivos avanzados con un enfoque en la visión y el lenguaje"
+      ]
+    },
+    {
+      "heading": "RL2 / IA neuro-simbólica",
+      "paragraphs": [
+        "Integración de la IA lógica-probabilística y la basada en el aprendizaje profundo, invocando mutuamente las soluciones de cada parte, inyectando y utilizando la semántica en el aprendizaje profundo."
+      ]
+    },
+    {
+      "heading": "RL3 / IA inspirada en el cerebro",
+      "paragraphs": [
+        "Reunir a científicos de la neurociencia, la psicología cognitiva y la IA para explotar los conocimientos de las operaciones anatómicas y cognitivas de los cerebros biológicos para iluminar a los investigadores de la IA."
+      ]
+    },
+    {
+      "heading": "RL4 / Aprendizaje automático basado en la física",
+      "paragraphs": [
+        "Reunir a matemáticos, físicos y científicos de la IA para explotar los conocimientos de las ciencias físicas para desarrollar modelos de aprendizaje de máquina basados en relaciones causales."
+      ]
+    },
+    {
+      "heading": "RL5 / IA centrada en las personas",
+      "paragraphs": [
+        "Nuevas tecnologías para un uso justo, seguro y transparente de la IA en la sociedad, así como metodologías para evaluar su impacto en la misma. Promover nuevas herramientas para una IA interpretable y explicable."
+      ]
+    },
+    {
+      "heading": "Investigadores(as) principales",
+      "paragraphs": []
+    },
+    {
+      "heading": "Pablo Barceló",
+      "paragraphs": []
+    },
+    {
+      "heading": "Felipe Bravo-Márquez",
+      "paragraphs": []
+    },
+    {
+      "heading": "Claudia López",
+      "paragraphs": []
+    },
+    {
+      "heading": "Pedro Maldonado",
+      "paragraphs": []
+    },
+    {
+      "heading": "Marcelo Mendoza",
+      "paragraphs": []
+    },
+    {
+      "heading": "Marcela Peña",
+      "paragraphs": []
+    },
+    {
+      "heading": "Cristóbal Rojas",
+      "paragraphs": []
+    },
+    {
+      "heading": "Pedro Saa",
+      "paragraphs": []
+    },
+    {
+      "heading": "Manuel Sánchez",
+      "paragraphs": []
+    },
+    {
+      "heading": "Iván Sipirán",
+      "paragraphs": []
+    },
+    {
+      "heading": "Investigadores(as) Cenia",
+      "paragraphs": [
+        "La meta de este grupo de investigadores(as) permanentes es producir investigación de frontera en IA, a través de colaboraciones internas, con las otras líneas de investigación, nacionales e internacionales. Reunimos a expertos(as) en visión, procesamiento del lenguaje natural, integración multimodal, aprendizaje adaptativo, redes de grafos y neurociencia. También participan con el equipo de transferencia tecnológica para desarrollar aplicaciones de IA en smart cities, sustentabilidad, análisis, agricultura con datos satelitales, detección y prevención de incendios, y salud."
+      ]
+    },
+    {
+      "heading": "Gianni Anelli",
+      "paragraphs": []
+    },
+    {
+      "heading": "Carlos Aspillaga",
+      "paragraphs": []
+    },
+    {
+      "heading": "Cristián Buc",
+      "paragraphs": []
+    },
+    {
+      "heading": "Andrés Carvallo",
+      "paragraphs": []
+    },
+    {
+      "heading": "Christ Devia",
+      "paragraphs": []
+    },
+    {
+      "heading": "Brayan Díaz",
+      "paragraphs": []
+    },
+    {
+      "heading": "Francisca Gil",
+      "paragraphs": []
+    },
+    {
+      "heading": "Alexander Kozachinskiy",
+      "paragraphs": []
+    },
+    {
+      "heading": "Rex Liu",
+      "paragraphs": []
+    },
+    {
+      "heading": "Martín Pizarro",
+      "paragraphs": []
+    },
+    {
+      "heading": "Felipe Urrutia",
+      "paragraphs": []
+    },
+    {
+      "heading": "Comité Científico Cenia",
+      "paragraphs": []
+    },
+    {
+      "heading": "Federico Fuentes",
+      "paragraphs": []
+    },
+    {
+      "heading": "Claudia López",
+      "paragraphs": []
+    },
+    {
+      "heading": "Pedro Maldonado",
+      "paragraphs": []
+    },
+    {
+      "heading": "Marcela Peña",
+      "paragraphs": []
+    },
+    {
+      "heading": "Miguel Romero",
+      "paragraphs": []
+    },
+    {
+      "heading": "Iván Sipirán",
+      "paragraphs": []
+    },
+    {
+      "heading": "Investigadores(as) asociados",
+      "paragraphs": []
+    },
+    {
+      "heading": "Paula Aguirre",
+      "paragraphs": []
+    },
+    {
+      "heading": "Jorge Baier",
+      "paragraphs": []
+    },
+    {
+      "heading": "Pamela Guevara",
+      "paragraphs": []
+    },
+    {
+      "heading": "Carlos Hernández",
+      "paragraphs": []
+    },
+    {
+      "heading": "Valeria Herskovic",
+      "paragraphs": []
+    },
+    {
+      "heading": "Hans Löbel",
+      "paragraphs": []
+    },
+    {
+      "heading": "Andrés Neyem",
+      "paragraphs": []
+    },
+    {
+      "heading": "Denis Parra",
+      "paragraphs": []
+    },
+    {
+      "heading": "Mircea Petrache",
+      "paragraphs": []
+    },
+    {
+      "heading": "Esteban Pino",
+      "paragraphs": []
+    },
+    {
+      "heading": "Francisco Sahli",
+      "paragraphs": []
+    },
+    {
+      "heading": "Yamisleydi Salgueiro",
+      "paragraphs": []
+    },
+    {
+      "heading": "Carlos Sing Long",
+      "paragraphs": []
+    },
+    {
+      "heading": "Rodrigo Toro",
+      "paragraphs": []
+    },
+    {
+      "heading": "Investigadores(as) jóvenes",
+      "paragraphs": []
+    },
+    {
+      "heading": "Andrés Abeliuk",
+      "paragraphs": []
+    },
+    {
+      "heading": "Gabriela Arriagada",
+      "paragraphs": []
+    },
+    {
+      "heading": "Valentin Barriere",
+      "paragraphs": []
+    },
+    {
+      "heading": "Federico Fuentes",
+      "paragraphs": []
+    },
+    {
+      "heading": "Camilo Gouet",
+      "paragraphs": []
+    },
+    {
+      "heading": "Eduardo Graells",
+      "paragraphs": []
+    },
+    {
+      "heading": "Cristóbal Guzmán",
+      "paragraphs": []
+    },
+    {
+      "heading": "Cristina Jara",
+      "paragraphs": []
+    },
+    {
+      "heading": "Cristóbal Moenne",
+      "paragraphs": []
+    },
+    {
+      "heading": "Miguel Romero",
+      "paragraphs": []
+    },
+    {
+      "heading": "Romina Torres",
+      "paragraphs": []
+    },
+    {
+      "heading": "Rodrigo Vergara",
+      "paragraphs": []
+    },
+    {
+      "heading": "Postdoctorados",
+      "paragraphs": []
+    },
+    {
+      "heading": "Nicolás Alvarado",
+      "paragraphs": []
+    },
+    {
+      "heading": "Ivan Aslanov",
+      "paragraphs": []
+    },
+    {
+      "heading": "Mitchell Bosley",
+      "paragraphs": []
+    },
+    {
+      "heading": "Juan José Molina",
+      "paragraphs": []
+    },
+    {
+      "heading": "Cinthia Sánchez",
+      "paragraphs": []
+    },
+    {
+      "heading": "Gabriel Sepúlveda",
+      "paragraphs": []
+    },
+    {
+      "heading": "Joaquín Valdés",
+      "paragraphs": []
+    },
+    {
+      "heading": "Franziska Wagner",
+      "paragraphs": []
+    },
+    {
+      "heading": "Colaboradores(as) asociados",
+      "paragraphs": []
+    },
+    {
+      "heading": "Ana María Cabanas",
+      "paragraphs": []
+    },
+    {
+      "heading": "Juan Bekios",
+      "paragraphs": []
+    },
+    {
+      "heading": "Leopoldo Bertossi",
+      "paragraphs": []
+    },
+    {
+      "heading": "Gonzalo Bustos",
+      "paragraphs": []
+    },
+    {
+      "heading": "Rodrigo Cádiz",
+      "paragraphs": []
+    },
+    {
+      "heading": "Juan Carlos Herrera",
+      "paragraphs": []
+    },
+    {
+      "heading": "Margarita Castro",
+      "paragraphs": []
+    },
+    {
+      "heading": "Sebastián Ferrada",
+      "paragraphs": []
+    },
+    {
+      "heading": "Carola Figueroa",
+      "paragraphs": []
+    },
+    {
+      "heading": "Benjamín Herrmann",
+      "paragraphs": []
+    },
+    {
+      "heading": "María José Escobar",
+      "paragraphs": []
+    },
+    {
+      "heading": "José Manuel Saavedra",
+      "paragraphs": []
+    },
+    {
+      "heading": "Marcelo Matus",
+      "paragraphs": []
+    },
+    {
+      "heading": "Miguel Nussbaum Voehl",
+      "paragraphs": []
+    },
+    {
+      "heading": "Rodrigo Palma",
+      "paragraphs": []
+    },
+    {
+      "heading": "Héctor Pastén",
+      "paragraphs": []
+    },
+    {
+      "heading": "María Paz Hermosilla",
+      "paragraphs": []
+    },
+    {
+      "heading": "Billy Peralta",
+      "paragraphs": []
+    },
+    {
+      "heading": "Guillermo Puebla",
+      "paragraphs": []
+    },
+    {
+      "heading": "Sebastián Ríos",
+      "paragraphs": []
+    },
+    {
+      "heading": "Sergio Rojas",
+      "paragraphs": []
+    },
+    {
+      "heading": "Jorge Silva",
+      "paragraphs": []
+    },
+    {
+      "heading": "Abel Wajnerman Paz",
+      "paragraphs": []
+    },
+    {
+      "heading": "Osvaldo Yáñez",
+      "paragraphs": []
+    },
+    {
+      "heading": "Ingenieros de Investigación",
+      "paragraphs": []
+    },
+    {
+      "heading": "Tomás Couso",
+      "paragraphs": []
+    },
+    {
+      "heading": "Guillermo Figueroa",
+      "paragraphs": []
+    },
+    {
+      "heading": "Vicente Opazo",
+      "paragraphs": []
+    },
+    {
+      "heading": "Luciano Soto",
+      "paragraphs": []
+    },
+    {
+      "heading": "Colaboradores Internacionales",
+      "paragraphs": []
+    },
+    {
+      "heading": "Valentino Delle Rose",
+      "paragraphs": []
+    },
+    {
+      "heading": "Julio Hurtado",
+      "paragraphs": []
+    },
+    {
+      "heading": "Edison Marrese-Taylor",
+      "paragraphs": []
+    },
+    {
+      "heading": "César Quilodrán",
+      "paragraphs": []
+    },
+    {
+      "heading": "Cristián Rodríguez",
+      "paragraphs": []
+    },
+    {
+      "heading": "Tomasz Steifer",
+      "paragraphs": []
+    },
+    {
+      "heading": "PUBLICACIONES",
+      "paragraphs": [
+        "Continuous learning occurs naturally in human beings. However, Deep Learning methods suffer from a problem known as Catastrophic Forgetting (CF) that consists of a model drastically decreasing its performance on previously learned tasks when it is sequentially trained on new tasks. This situation, known as task interference, occurs when a network modifies relevant weight values as it learns a new task. In this work, we propose two main strategies to face the problem of task interference in convolutional neural networks. First, we use a sparse coding technique to adaptively allocate model capacity to different tasks avoiding interference between them. Specifically, we use a strategy based on group sparse regularization to specialize groups of parameters to learn each task. Afterward, by adding binary masks, we can freeze these groups of parameters, using the rest of the network to learn new tasks. Second, we use a meta learning technique to foster knowledge transfer among tasks, encouraging weight reusability instead of overwriting. Specifically, we use an optimization strategy based on episodic training to foster learning weights that are expected to be useful to solve future tasks. Together, these two strategies help us to avoid interference by preserving compatibility with previous and future weight values. Using this approach, we achieve state-of-the-art results on popular benchmarks used to test techniques to avoid CF. In particular, we conduct an ablation study to identify the contribution of each component of the proposed method, demonstrating its ability to avoid retroactive interference with previous tasks and to promote knowledge transfer to future tasks.",
+        "Every year physicians face an increasing demand of image-based diagnosis from patients, a problem that can be addressed with recent artificial intelligence methods. In this context, we survey works in the area of automatic report generation from medical images, with emphasis on methods using deep neural networks, with respect to: (1) Datasets, (2) Architecture Design, (3) Explainability and (4) Evaluation Metrics. Our survey identifies interesting developments, but also remaining challenges. Among them, the current evaluation of generated reports is especially weak, since it mostly relies on traditional Natural Language Processing (NLP) metrics, which do not accurately capture medical correctness.",
+        "This article describes the participation and results of the PUC Chile team in the Turberculosis task in the context of ImageCLEFmedical challenge 2021. We were ranked 7th based on the kappa metric and 4th in terms of accuracy. We describe three approaches we tried in order to address the task. Our best approach used 2D images visually encoded with a DenseNet neural network, which representations were concatenated to finally output the classification with a softmax layer. We describe in detail this and other two approaches, and we conclude by discussing some ideas for future work.",
+        "Publisher: Logical Methods in Computer Science, Link>",
+        "We investigate the application of the Shapley value to quantifying the contribution of a tuple to a query answer. The Shapley value is a widely known numerical measure in cooperative game theory and in many applications of game theory for assessing the contribution of a player to a coalition game. It has been established already in the 1950s, and is theoretically justified by being the very single wealth-distribution measure that satisfies some natural axioms. While this value has been investigated in several areas, it received little attention in data management. We study this measure in the context of conjunctive and aggregate queries by defining corresponding coalition games. We provide algorithmic and complexity-theoretic results on the computation of Shapley-based contributions to query answers; and for the hard cases we present approximation algorithms.",
+        "Word embeddings are vital descriptors of words in unigram representations of documents for many tasks in natural language processing and information retrieval. The representation of queries has been one of the most critical challenges in this area because it consists of a few terms and has little descriptive capacity. Strategies such as average word embeddings can enrich the queries’ descriptive capacity since they favor the identification of related terms from the continuous vector representations that characterize these approaches. We propose a data-driven strategy to combine word embeddings. We use Idf combinations of embeddings to represent queries, showing that these representations outperform the average word embeddings recently proposed in the literature. Experimental results on benchmark data show that our proposal performs well, suggesting that data-driven combinations of word embeddings are a promising line of research in ad-hoc information retrieval.",
+        "We present a study of an artificial neural architecture that predict human ocular scanpaths while they are free-viewing different images types. This analysis is made by comparing different metrics that encompass scanpath patterns, these metrics aim to measure spatial and temporal errors; such as the MSE, ScanMatch, cross-correlogram peaks, and MultiMatch. Our methodology begin by choosing one architecture and training different parametric models per subject and image type, this allows to adjust the models to each person and a given set of images. We find out that there is a clear difference in prediction when people free-view images with high visual content (high-frequency contents) and low visual content (no-frequency contents). The input features selected for predicting the scanpath are saliency maps calculated from foveated images together with the past of the ocular scanpath of subjects, modeled by our architecture called FovSOS-FSD (Foveated Saliency and Ocular Scanpath with Feature Selection and Direct Prediction).",
+        "The results of this study could be used to improve the design of gaze-controlled interfaces, virtual reality, as well as to better understand how humans visually explore their surroundings and pave a way to make future research."
+      ]
+    },
+    {
+      "heading": "Background",
+      "paragraphs": []
+    },
+    {
+      "heading": "Methods",
+      "paragraphs": []
+    },
+    {
+      "heading": "Results",
+      "paragraphs": []
+    },
+    {
+      "heading": "Conclusions",
+      "paragraphs": []
+    }
+  ],
+  "lists": [],
+  "links": [
+    {
+      "text": "Comunidad Cenia How To",
+      "url": "https://cenia.cl/how-to"
+    },
+    {
+      "text": "Inicio",
+      "url": "https://cenia.cl/"
+    },
+    {
+      "text": "Nosotros",
+      "url": "https://cenia.cl/investigacion/"
+    },
+    {
+      "text": "Cenia",
+      "url": "https://cenia.cl/cenia/"
+    },
+    {
+      "text": "Operaciones",
+      "url": "https://cenia.cl/operaciones/"
+    },
+    {
+      "text": "Investigación",
+      "url": "https://cenia.cl/investigacion/"
+    },
+    {
+      "text": "Transferencia Tecnológica",
+      "url": "https://cenia.cl/transferencia/"
+    },
+    {
+      "text": "Vinculación con medio",
+      "url": "https://cenia.cl/vinculacion/"
+    },
+    {
+      "text": "Estudiantes",
+      "url": "https://cenia.cl/estudiantes/"
+    },
+    {
+      "text": "¿Qué hacemos?",
+      "url": "https://cenia.cl/investigacion/"
+    },
+    {
+      "text": "Vinculación",
+      "url": "https://cenia.cl/vinculacion/"
+    },
+    {
+      "text": "Capacitación y formación",
+      "url": "https://cenia.cl/capacitacion-y-formacion/"
+    },
+    {
+      "text": "Noticias",
+      "url": "https://cenia.cl/noticias/"
+    },
+    {
+      "text": "Contacto",
+      "url": "https://cenia.cl/contacto/"
+    },
+    {
+      "text": "Transparencia",
+      "url": "https://cenia.cl/transparencia/"
+    },
+    {
+      "text": "RL1 /",
+      "url": "https://cenia.cl/investigacion/lineas-de-investigacion/?ref=rl1"
+    },
+    {
+      "text": "Felipe Bravo-Márquez –",
+      "url": "https://cenia.cl/perfiles?ref=felipe-bravo-marquez"
+    },
+    {
+      "text": "Iván Sipirán",
+      "url": "https://cenia.cl/perfiles?ref=ivan-sipiran"
+    },
+    {
+      "text": "RL2 /",
+      "url": "https://cenia.cl/investigacion/lineas-de-investigacion/?ref=rl2"
+    },
+    {
+      "text": "Pablo Barceló –",
+      "url": "https://cenia.cl/perfiles?ref=pablo-barcelo"
+    },
+    {
+      "text": "Cristóbal Rojas",
+      "url": "https://cenia.cl/perfiles?ref=cristobal-rojas"
+    },
+    {
+      "text": "RL3 /",
+      "url": "https://cenia.cl/investigacion/lineas-de-investigacion/?ref=rl3"
+    },
+    {
+      "text": "Marcela Peña –",
+      "url": "https://cenia.cl/perfiles?ref=marcela-pena"
+    },
+    {
+      "text": "Pedro Maldonado",
+      "url": "https://cenia.cl/perfiles?ref=pedro-maldonado"
+    },
+    {
+      "text": "RL4 /",
+      "url": "https://cenia.cl/investigacion/lineas-de-investigacion/?ref=rl4"
+    },
+    {
+      "text": "Pedro Saa –",
+      "url": "https://cenia.cl/perfiles?ref=pedro-saa"
+    },
+    {
+      "text": "Manuel Sánchez",
+      "url": "https://cenia.cl/perfiles?ref=manuel-sanchez"
+    },
+    {
+      "text": "RL5 /",
+      "url": "https://cenia.cl/investigacion/lineas-de-investigacion/?ref=rl5"
+    },
+    {
+      "text": "Marcelo Mendoza –",
+      "url": "https://cenia.cl/perfiles?ref=marcelo-mendoza"
+    },
+    {
+      "text": "Claudia López",
+      "url": "https://cenia.cl/perfiles?ref=claudia-lopez"
+    },
+    {
+      "text": "Pablo Barceló UC RL2",
+      "url": "https://cenia.cl/perfiles?ref=pablo-barcelo"
+    },
+    {
+      "text": "Felipe Bravo-Márquez UdeChile RL1",
+      "url": "https://cenia.cl/perfiles?ref=felipe-bravo-marquez"
+    },
+    {
+      "text": "Claudia López UdeChile RL5",
+      "url": "https://cenia.cl/perfiles?ref=claudia-lopez"
+    },
+    {
+      "text": "Pedro Maldonado UdeChile RL3",
+      "url": "https://cenia.cl/perfiles?ref=pedro-maldonado"
+    },
+    {
+      "text": "Marcelo Mendoza UC RL5",
+      "url": "https://cenia.cl/perfiles?ref=marcelo-mendoza"
+    },
+    {
+      "text": "Marcela Peña UC RL3",
+      "url": "https://cenia.cl/perfiles?ref=marcela-pena"
+    },
+    {
+      "text": "Cristóbal Rojas UC RL2",
+      "url": "https://cenia.cl/perfiles?ref=cristobal-rojas"
+    },
+    {
+      "text": "Pedro Saa UC RL4",
+      "url": "https://cenia.cl/perfiles?ref=pedro-saa"
+    },
+    {
+      "text": "Manuel Sánchez UC RL4",
+      "url": "https://cenia.cl/perfiles?ref=manuel-sanchez"
+    },
+    {
+      "text": "Iván Sipirán UdeChile RL1",
+      "url": "https://cenia.cl/perfiles?ref=ivan-sipiran"
+    },
+    {
+      "text": "Gianni Anelli Investigador",
+      "url": "https://cenia.cl/perfiles?ref=gianni-anelli-2"
+    },
+    {
+      "text": "Carlos Aspillaga Investigador",
+      "url": "https://cenia.cl/perfiles?ref=carlos-aspillaga"
+    },
+    {
+      "text": "Cristián Buc Jefe del equipo de investigación",
+      "url": "https://cenia.cl/perfiles?ref=cristian-buc-calderon"
+    },
+    {
+      "text": "Andrés Carvallo Investigador",
+      "url": "https://cenia.cl/perfiles?ref=andres-carvallo"
+    },
+    {
+      "text": "Christ Devia Investigadora",
+      "url": "https://cenia.cl/perfiles?ref=christ-devia"
+    },
+    {
+      "text": "Brayan Díaz Investigador",
+      "url": "https://cenia.cl/perfiles?ref=brayan-diaz"
+    },
+    {
+      "text": "Francisca Gil Investigadora",
+      "url": "https://cenia.cl/perfiles?ref=francisca-gil"
+    },
+    {
+      "text": "Alexander Kozachinskiy Investigador",
+      "url": "https://cenia.cl/perfiles?ref=alexander-kozachinskyi"
+    },
+    {
+      "text": "Rex Liu Investigador",
+      "url": "https://cenia.cl/perfiles?ref=rex-liu"
+    },
+    {
+      "text": "Martín Pizarro Ingeniero de investigación",
+      "url": "https://cenia.cl/perfiles?ref=martin-pizarro"
+    },
+    {
+      "text": "Felipe Urrutia",
+      "url": "https://cenia.cl/perfiles?ref=felipe-urrutia"
+    },
+    {
+      "text": "Federico Fuentes UC RL4",
+      "url": "https://cenia.cl/perfiles?ref=federico-fuentes"
+    },
+    {
+      "text": "Miguel Romero UC RL2",
+      "url": "https://cenia.cl/perfiles?ref=miguel-romero"
+    },
+    {
+      "text": "Paula Aguirre UC RL4",
+      "url": "https://cenia.cl/perfiles?ref=paula-aguirre"
+    },
+    {
+      "text": "Jorge Baier UC RL2",
+      "url": "https://cenia.cl/perfiles?ref=jorge-baier"
+    },
+    {
+      "text": "Pamela Guevara UdeC RL3",
+      "url": "https://cenia.cl/perfiles?ref=pamela-guevara"
+    },
+    {
+      "text": "Carlos Hernández USS RL2",
+      "url": "https://cenia.cl/perfiles?ref=carlos-hernandez"
+    },
+    {
+      "text": "Valeria Herskovic UC RL5",
+      "url": "https://cenia.cl/perfiles?ref=valeria-herskovic"
+    },
+    {
+      "text": "Hans Löbel UC RL1",
+      "url": "https://cenia.cl/perfiles?ref=hans-lobel"
+    },
+    {
+      "text": "Andrés Neyem UC RL1",
+      "url": "https://cenia.cl/perfiles?ref=andres-neyem"
+    },
+    {
+      "text": "Denis Parra UC RL1",
+      "url": "https://cenia.cl/perfiles?ref=denis-parra"
+    },
+    {
+      "text": "Mircea Petrache UC RL2",
+      "url": "https://cenia.cl/perfiles?ref=mircea-petrache"
+    },
+    {
+      "text": "Esteban Pino UdeC RL3",
+      "url": "https://cenia.cl/perfiles?ref=esteban-pino"
+    },
+    {
+      "text": "Francisco Sahli UC RL4",
+      "url": "https://cenia.cl/perfiles?ref=francisco-sahli"
+    },
+    {
+      "text": "Yamisleydi Salgueiro UdeTalca RL1",
+      "url": "https://cenia.cl/perfiles?ref=yamisleydi-salgueiro"
+    },
+    {
+      "text": "Carlos Sing Long UC RL4",
+      "url": "https://cenia.cl/perfiles?ref=carlos-sing-long"
+    },
+    {
+      "text": "Rodrigo Toro UC RL1",
+      "url": "https://cenia.cl/perfiles?ref=rodrigo-toro"
+    },
+    {
+      "text": "Andrés Abeliuk UdeChile RL5",
+      "url": "https://cenia.cl/perfiles?ref=andres-abeliuk"
+    },
+    {
+      "text": "Gabriela Arriagada UC RL5",
+      "url": "https://cenia.cl/perfiles?ref=gabriela-arriagada-bruneau"
+    },
+    {
+      "text": "Valentin Barriere UdeChile RL1",
+      "url": "https://cenia.cl/perfiles?ref=valentin-barriere"
+    },
+    {
+      "text": "Camilo Gouet UC RL3",
+      "url": "https://cenia.cl/perfiles?ref=camilo-gouet"
+    },
+    {
+      "text": "Eduardo Graells UdeChile RL5",
+      "url": "https://cenia.cl/perfiles?ref=eduardo-graells"
+    },
+    {
+      "text": "Cristóbal Guzmán UC RL5",
+      "url": "https://cenia.cl/perfiles?ref=cristobal-guzman"
+    },
+    {
+      "text": "Cristina Jara UC RL3",
+      "url": "https://cenia.cl/perfiles?ref=cristina-jara"
+    },
+    {
+      "text": "Cristóbal Moenne UC RL3",
+      "url": "https://cenia.cl/perfiles?ref=cristobal-moenne"
+    },
+    {
+      "text": "Romina Torres UAI RL5",
+      "url": "https://cenia.cl/perfiles?ref=romina-torres"
+    },
+    {
+      "text": "Rodrigo Vergara Universidad Metropolitana de Ciencias de la Educación RL3",
+      "url": "https://cenia.cl/perfiles?ref=rodrigo-vergara"
+    },
+    {
+      "text": "Nicolás Alvarado",
+      "url": "https://cenia.cl/perfiles?ref=nicolas-alvarado"
+    },
+    {
+      "text": "Ivan Aslanov",
+      "url": "https://cenia.cl/perfiles?ref=ivan-aslanov"
+    },
+    {
+      "text": "Mitchell Bosley",
+      "url": "https://cenia.cl/perfiles?ref=mitchell-bosley"
+    },
+    {
+      "text": "Juan José Molina",
+      "url": "https://cenia.cl/perfiles?ref=juan-jose-molina"
+    },
+    {
+      "text": "Cinthia Sánchez",
+      "url": "https://cenia.cl/perfiles?ref=cinthia-sanchez"
+    },
+    {
+      "text": "Gabriel Sepúlveda",
+      "url": "https://cenia.cl/perfiles?ref=gabriel-sepulveda"
+    },
+    {
+      "text": "Joaquín Valdés",
+      "url": "https://cenia.cl/perfiles?ref=joaquin-valdes"
+    },
+    {
+      "text": "Franziska Wagner",
+      "url": "https://cenia.cl/perfiles?ref=franziska-wagner"
+    },
+    {
+      "text": "Ana María Cabanas UTA RL1",
+      "url": "https://cenia.cl/perfiles?ref=ana-maria-cabanas"
+    },
+    {
+      "text": "Juan Bekios UCN RL1",
+      "url": "https://cenia.cl/perfiles?ref=juan-bekios"
+    },
+    {
+      "text": "Leopoldo Bertossi Universidad de Carleton RL2",
+      "url": "https://cenia.cl/perfiles?ref=leopoldo-bertossi"
+    },
+    {
+      "text": "Gonzalo Bustos UdeChile",
+      "url": "https://cenia.cl/perfiles?ref=gonzalo-bustos"
+    },
+    {
+      "text": "Rodrigo Cádiz UC RL1",
+      "url": "https://cenia.cl/perfiles?ref=rodrigo-cadiz"
+    },
+    {
+      "text": "Juan Carlos Herrera CEDEUS",
+      "url": "https://cenia.cl/perfiles?ref=juan-carlos-herrera"
+    },
+    {
+      "text": "Margarita Castro UC RL1",
+      "url": "https://cenia.cl/perfiles?ref=margarita-castro"
+    },
+    {
+      "text": "Sebastián Ferrada UdeChile RL1",
+      "url": "https://cenia.cl/perfiles?ref=sebastian-ferrada"
+    },
+    {
+      "text": "Carola Figueroa UBB RL3",
+      "url": "https://cenia.cl/perfiles?ref=carola-figueroa"
+    },
+    {
+      "text": "Benjamín Herrmann UC RL4",
+      "url": "https://cenia.cl/perfiles?ref=benjamin-herrmann"
+    },
+    {
+      "text": "María José Escobar USM RL3",
+      "url": "https://cenia.cl/perfiles?ref=maria-jose-escobar"
+    },
+    {
+      "text": "José Manuel Saavedra UANDES RL1",
+      "url": "https://cenia.cl/perfiles?ref=jose-manuel-saavedra"
+    },
+    {
+      "text": "Marcelo Matus CASE",
+      "url": "https://cenia.cl/perfiles?ref=marcelo-matus"
+    },
+    {
+      "text": "Miguel Nussbaum Voehl UC",
+      "url": "https://cenia.cl/perfiles?ref=miguel-nussbaum-voehl"
+    },
+    {
+      "text": "Rodrigo Palma Centro de Energía FCFM",
+      "url": "https://cenia.cl/perfiles?ref=rodrigo-palma"
+    },
+    {
+      "text": "Héctor Pastén UC RL2",
+      "url": "https://cenia.cl/perfiles?ref=hernan-paster"
+    },
+    {
+      "text": "María Paz Hermosilla UAI",
+      "url": "https://cenia.cl/perfiles?ref=maria-paz-hermosilla"
+    },
+    {
+      "text": "Billy Peralta UNAB RL1",
+      "url": "https://cenia.cl/perfiles?ref=billy-peralta"
+    },
+    {
+      "text": "Guillermo Puebla UTA",
+      "url": "https://cenia.cl/perfiles?ref=guillermo-puebla"
+    },
+    {
+      "text": "Sebastián Ríos UdeChile RL1",
+      "url": "https://cenia.cl/perfiles?ref=sebastian-rios"
+    },
+    {
+      "text": "Sergio Rojas Monash University RL4",
+      "url": "https://cenia.cl/perfiles?ref=sergio-rojas"
+    },
+    {
+      "text": "Jorge Silva UdeChile RL1",
+      "url": "https://cenia.cl/perfiles?ref=jorge-silva"
+    },
+    {
+      "text": "Abel Wajnerman Paz UC RL5",
+      "url": "https://cenia.cl/perfiles?ref=abel-wajnerman-paz"
+    },
+    {
+      "text": "Osvaldo Yáñez UDLA RL2",
+      "url": "https://cenia.cl/perfiles?ref=osvaldo-yanez"
+    },
+    {
+      "text": "Tomás Couso Ingeniero de Investigación",
+      "url": "https://cenia.cl/perfiles?ref=tomas-couso"
+    },
+    {
+      "text": "Guillermo Figueroa Ingeniero ML Trainee",
+      "url": "https://cenia.cl/perfiles?ref=guillermo-figueroa"
+    },
+    {
+      "text": "Vicente Opazo Ingeniero de Investigación Trainee",
+      "url": "https://cenia.cl/perfiles?ref=vicente-opazo"
+    },
+    {
+      "text": "Luciano Soto Técnico de Coordinación e Instalación de Estaciones",
+      "url": "https://cenia.cl/perfiles?ref=luciano-soto"
+    },
+    {
+      "text": "Valentino Delle Rose RL2",
+      "url": "https://cenia.cl/perfiles?ref=valentino-delle-rose"
+    },
+    {
+      "text": "Julio Hurtado Universidad de Pisa",
+      "url": "https://cenia.cl/perfiles?ref=julio-hurtado"
+    },
+    {
+      "text": "Edison Marrese-Taylor Universidad de Tokio",
+      "url": "https://cenia.cl/perfiles?ref=edison-marrese-taylor"
+    },
+    {
+      "text": "César Quilodrán Imperial College London RL4",
+      "url": "https://cenia.cl/perfiles?ref=cesar-quilodran"
+    },
+    {
+      "text": "Cristián Rodríguez Universidad Nacional Australiana",
+      "url": "https://cenia.cl/perfiles?ref=cristian-rodriguez"
+    },
+    {
+      "text": "Tomasz Steifer Polish Academy of Sciences RL2",
+      "url": "https://cenia.cl/perfiles?ref=tomasz-steifer"
+    },
+    {
+      "text": "InvestigaciónCenia",
+      "url": "https://cenia.cl/investigacion/lineas-de-investigacion/?ref=investigacion-cenia"
+    },
+    {
+      "text": "2022",
+      "url": "https://cenia.cl/investigacion/lineas-de-investigacion/fechas/?ref=\"2022\""
+    },
+    {
+      "text": "2023",
+      "url": "https://cenia.cl/investigacion/lineas-de-investigacion/fechas/?ref=\"2023\""
+    },
+    {
+      "text": "2024",
+      "url": "https://cenia.cl/investigacion/lineas-de-investigacion/fechas/?ref=\"2024\""
+    },
+    {
+      "text": "2025",
+      "url": "https://cenia.cl/investigacion/lineas-de-investigacion/fechas/?ref=\"2025\""
+    },
+    {
+      "text": "2026",
+      "url": "https://cenia.cl/investigacion/lineas-de-investigacion/fechas/?ref=\"2026\""
+    },
+    {
+      "text": "Investigación Cenia",
+      "url": "https://cenia.cl/investigacion/lineas-de-investigacion/?ref=investigacion-cenia"
+    }
+  ],
+  "pdf_links": [
+    "http://ceur-ws.org/Vol-2936/paper-112.pdf"
+  ],
+  "images": [
+    {
+      "src": "https://cenia.cl/wp-content/themes/urantiacoscenia/assets/images/X.png",
+      "alt": "twitter"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/RL1.jpg",
+      "alt": "RL1"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/RL2.jpg",
+      "alt": "RL2"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/RL3.jpg",
+      "alt": "RL3"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/RL4.jpg",
+      "alt": "RL4"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/RL5.jpg",
+      "alt": "RL5"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Pablo-Barcelo-e1692473423969.jpg",
+      "alt": "Pablo Barceló"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Felipe-Bravo-1-e1692581125684.jpg",
+      "alt": "Felipe Bravo-Márquez"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Claudia-Lopez-e1692581882797.jpg",
+      "alt": "Claudia López"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Pedro-Maldonado-e1692473565414.jpg",
+      "alt": "Pedro Maldonado"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Marcelo-Mendoza-e1692478586781.jpg",
+      "alt": "Marcelo Mendoza"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Marcela-Pena-e1691617374103.jpg",
+      "alt": "Marcela Peña"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Cristobal-Rojas-e1692580414674.jpg",
+      "alt": "Cristóbal Rojas"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Pedro-Saa-1-scaled-e1748279085988.jpg",
+      "alt": "Pedro Saa"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Manuel-Sanchez-e1691677276336.jpg",
+      "alt": "Manuel Sánchez"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Ivan-Sipiran-e1692585572268.jpg",
+      "alt": "Iván Sipirán"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2026/03/Gianni-Anelli-scaled.jpeg",
+      "alt": "Gianni Anelli"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Carlos-Aspillaga-e1692580564971.jpg",
+      "alt": "Carlos Aspillaga"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Cristian-Buc-1-e1692580692437.jpg",
+      "alt": "Cristián Buc"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Andres-Carvallo-e1692584537819.jpg",
+      "alt": "Andrés Carvallo"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Christ-Devia-e1692580879177.jpg",
+      "alt": "Christ Devia"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2024/10/53879443057_2a7bfd7459_k-1-e1727990657965.jpg",
+      "alt": "Brayan Díaz"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2025/07/Francisca-Gil-scaled.jpeg",
+      "alt": "Francisca Gil"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Alexander-Kozachinskiy.jpg",
+      "alt": "Alexander Kozachinskiy"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2024/11/RGLiu-scaled-e1732117893429.jpg",
+      "alt": "Rex Liu"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2025/02/Martin-Pizarro-scaled-e1739978803754.jpg",
+      "alt": "Martín Pizarro"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2024/11/Felipe-Urrutia.jpg",
+      "alt": "Felipe Urrutia"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/10/MG_0769-scaled-e1697484239887.jpg",
+      "alt": "Federico Fuentes"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Claudia-Lopez-e1692581882797.jpg",
+      "alt": "Claudia López"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Pedro-Maldonado-e1692473565414.jpg",
+      "alt": "Pedro Maldonado"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Marcela-Pena-e1691617374103.jpg",
+      "alt": "Marcela Peña"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Miguel-Romero-e1692583811873.jpg",
+      "alt": "Miguel Romero"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Ivan-Sipiran-e1692585572268.jpg",
+      "alt": "Iván Sipirán"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Paula-Aguirre-e1692473221878.jpg",
+      "alt": "Paula Aguirre"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Jorge-Baier-e1692581017389.jpg",
+      "alt": "Jorge Baier"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Pamela-Guevara-e1691677354770.jpg",
+      "alt": "Pamela Guevara"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Carlos-Hernandez-e1692581274598.jpg",
+      "alt": "Carlos Hernández"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Valeria-Herskovic-e1692581471263.jpg",
+      "alt": "Valeria Herskovic"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Hans-Lobel-e1692581611357.jpg",
+      "alt": "Hans Löbel"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Andres-Neyem-1.jpg",
+      "alt": "Andrés Neyem"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Fotos-Cenials-e1691620912703.jpg",
+      "alt": "Denis Parra"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Mircea-Petrache-e1692583579245.jpg",
+      "alt": "Mircea Petrache"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Esteban-Pino-e1692582231419.jpg",
+      "alt": "Esteban Pino"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/08/Sahli-e1691677089892.png",
+      "alt": "Francisco Sahli"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Yamisleydi-Salgueiro-e1692584010920.jpg",
+      "alt": "Yamisleydi Salgueiro"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Carlos-Sing-Long-e1692582529649.jpg",
+      "alt": "Carlos Sing Long"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Rodrigo-Toro-e1692584073858.jpg",
+      "alt": "Rodrigo Toro"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Andres-Abeliuk-e1692582663216.jpg",
+      "alt": "Andrés Abeliuk"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Gabriela-Arriagada-1-e1692582795993.jpg",
+      "alt": "Gabriela Arriagada"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Valentin-Barriere-e1692584402271.jpg",
+      "alt": "Valentin Barriere"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/10/MG_0769-scaled-e1697484239887.jpg",
+      "alt": "Federico Fuentes"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Camilo-Gouet-e1692582991514.jpg",
+      "alt": "Camilo Gouet"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Eduardo-Graells-1-e1692583144191.jpg",
+      "alt": "Eduardo Graells"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Cristobal-Guzman-e1692583238563.jpg",
+      "alt": "Cristóbal Guzmán"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Cristina-Jara-e1692583296360.jpg",
+      "alt": "Cristina Jara"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Cristobal-Moenne-e1692583432157.jpg",
+      "alt": "Cristóbal Moenne"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Miguel-Romero-e1692583811873.jpg",
+      "alt": "Miguel Romero"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/12/Romina-Torres-e1701878973305.png",
+      "alt": "Romina Torres"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Rodrigo-Vergara-e1692584203425.jpg",
+      "alt": "Rodrigo Vergara"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2025/04/Niolas-Alvarado.png",
+      "alt": "Nicolás Alvarado"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2026/07/Ivan-Aslanov-scaled-e1783372118693.jpg",
+      "alt": "Ivan Aslanov"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2025/06/Bosley-e1749580329616.jpg",
+      "alt": "Mitchell Bosley"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2026/07/Juan-Jose-Molina.jpg",
+      "alt": "Juan José Molina"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2026/01/FotoCinthia-scaled.png",
+      "alt": "Cinthia Sánchez"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2025/07/Gabriel-Sepulveda.png",
+      "alt": "Gabriel Sepúlveda"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2026/07/Joaquin-Valdes.jpg",
+      "alt": "Joaquín Valdés"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2025/07/Franziska-Wagner.png",
+      "alt": "Franziska Wagner"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2024/08/Fotoformal-2-e1722530809506.jpeg",
+      "alt": "Ana María Cabanas"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Juan-Bekios-e1691675916415.jpg",
+      "alt": "Juan Bekios"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Leopoldo-Bertossi-e1691623124596.jpg",
+      "alt": "Leopoldo Bertossi"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Gonzalo-Bustos-e1692580933456.jpg",
+      "alt": "Gonzalo Bustos"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Rodrigo-Cadiz-e1692584978346.jpg",
+      "alt": "Rodrigo Cádiz"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Juan-Carlos-Herrera-e1691622666720.jpg",
+      "alt": "Juan Carlos Herrera"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Margarita-Castro-e1692582869714.jpg",
+      "alt": "Margarita Castro"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2024/12/20241213_125537-scaled-e1734547490813.jpg",
+      "alt": "Sebastián Ferrada"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2024/01/fotoCFFL-scaled-e1705611231203.jpg",
+      "alt": "Carola Figueroa"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2026/01/Foto-Institucional_Benjamin.png",
+      "alt": "Benjamín Herrmann"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Maria-Jose-Escobar-e1692585231185.jpg",
+      "alt": "María José Escobar"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Jose-Manuel-Saavedra-1-e1692585387218.jpg",
+      "alt": "José Manuel Saavedra"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Marcelo-Matus-e1692585450925.jpg",
+      "alt": "Marcelo Matus"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2024/08/MN-foto-2022-e1724092534590.jpg",
+      "alt": "Miguel Nussbaum Voehl"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Rodrigo-Palma-e1691622746150.jpg",
+      "alt": "Rodrigo Palma"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2026/01/Foto.jpeg",
+      "alt": "Héctor Pastén"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Maria-Paz-Hermosilla-2-1.jpg",
+      "alt": "María Paz Hermosilla"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Billy-Peralta-1-e1692585518466.jpg",
+      "alt": "Billy Peralta"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Guillermo-Puebla-e1692584719241.jpg",
+      "alt": "Guillermo Puebla"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2025/03/Sebastian-Rios-e1741724955432.jpg",
+      "alt": "Sebastián Ríos"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2025/04/Sergio-Rojas-scaled-e1744744690254.jpeg",
+      "alt": "Sergio Rojas"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2024/07/jorge-2019b-e1719927163302.jpeg",
+      "alt": "Jorge Silva"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2025/03/Abel-Wajnerman-Paz-scaled-e1741724674978.jpg",
+      "alt": "Abel Wajnerman Paz"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2025/04/Osvaldo-Yanez-scaled-e1744743838253.jpg",
+      "alt": "Osvaldo Yáñez"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2025/04/TomasCouso-e1744737988740.jpeg",
+      "alt": "Tomás Couso"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2026/03/Guillermo-Figueroa.jpg",
+      "alt": "Guillermo Figueroa"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2026/06/Vicente-Opazo-scaled-e1780526552852.jpeg",
+      "alt": "Vicente Opazo"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2026/03/Luciano-Soto.jpg",
+      "alt": "Luciano Soto"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Valentino-Delle-Rosa-e1692585173441.jpg",
+      "alt": "Valentino Delle Rose"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2023/07/Julio-Hurtado-1-e1691623070139.jpg",
+      "alt": "Julio Hurtado"
+    },
+    {
+      "src": "https://placehold.co/250x250/cccccc/cccccc",
+      "alt": "Edison Marrese-Taylor"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2024/08/PXL_20240820_175007271.PORTRAIT-1-scaled-e1724447828434.jpg",
+      "alt": "César Quilodrán"
+    },
+    {
+      "src": "https://placehold.co/250x250/cccccc/cccccc",
+      "alt": "Cristián Rodríguez"
+    },
+    {
+      "src": "https://cenia.cl/wp-content/uploads/2025/01/foto-scaled-e1736813449108.jpeg",
+      "alt": "Tomasz Steifer"
+    }
+  ],
+  "contenido_limitado": false
+}
