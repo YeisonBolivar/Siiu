@@ -1,0 +1,242 @@
+SOURCE: https://www.swfound.org/publications-and-reports/2026-global-counterspace-capabilities-report
+SCRAPED: 2026-05-26T20:05:44.719901Z
+================================================================================
+
+News & Media
+About
+About
+Learn more about Secure World Foundation
+Overview
+Our Vision and Story
+About Us
+Our Team
+Get Involved
+Contact Us
+Opportunities
+Reports
+Explore our extensive library of reports
+View All Reports
+Reports
+Reports
+Resources Nav Exemple
+Reports by Topic
+Counterspace Capabilities
+Space Sustainability
+Responsible Behavior in Space
+Group 3
+Group 4
+Events
+Events
+Get involved with our events.
+Events
+Upcoming Events
+Past Events
+Key Events
+The 8th Summit for Space Sustainability
+Events by Topic
+Responsible Behavior in Space
+Space Governance
+Space Sustainability
+Publications
+Publications
+Discover our deep research
+Publications
+Explore Our Publications
+Reports
+Annual Reports
+Key Publications
+Global Counterspace Report
+COPUOS Briefing Book
+Handbook for New Space Actors
+Publications by Topic
+Counterspace Capabilities
+Space Sustainability
+Fact Sheets
+Contact Us
+April 8, 2026
+PDF File
+Alternative Languages
+2026 Global Counterspace Capabilities Report
+Counterspace Capabilities
+Editors
+Victoria Samson
+Kathleen Brett
+View Publication
+View Publication
+2026 Global Counterspace Capabilities Report
+Counterspace Capabilities
+Authors
+No items found.
+Editors
+Victoria Samson
+Kathleen Brett
+View Publication
+View Publication
+Additional Links
+‍
+2026 Executive Summary
+Share on Social Media
+Background
+Space security has become an increasingly salient policy issue. Over the last several years, there has been growing concern from multiple governments over the reliance on vulnerable space capabilities for national security, and the corresponding proliferation of offensive counterspace capabilities that could be used to disrupt, deny, degrade, or destroy space systems. This in turn has led to increased rhetoric from some countries about the need to prepare for future conflicts on Earth to extend into space, and calls from some corners to increase the development of offensive counterspace capabilities and put in place more aggressive policies and postures.
+We feel strongly that a more open and public debate on these issues is urgently needed. Space is not the sole domain of militaries and intelligence services. Our global society and economy is increasingly dependent on space capabilities, and a future conflict in space could have massive, long-term negative repercussions that are felt here on Earth. Even testing of these capabilities could have long-lasting negative repercussions for the space environment, and all who operate there. The public should be as aware of the developing threats and risks of different policy options as would be the case for other national security issues in the air, land, and sea domains.
+The 2026 Report
+Edited by SWF Chief Director, Space Security and Stability,
+Victoria Samson
+, and SWF Program Analyst, Space Security and Stability,
+Kathleen Brett
+, the 2026 edition of the report compiles and assesses publicly available information on counterspace capabilities being developed by 13 countries across five categories: co-orbital, direct-ascent, electronic warfare, directed energy, and cyber. It assesses the current and near-term future capabilities for each country, along with their potential military utility, and discusses their space situational awareness capabilities as well. The countries covered in this report are: the United States, Russia, China, India, Australia, France, Germany (added this year), Iran, Israel, Japan, North Korea, South Korea, and the United Kingdom.
+Major Updates in 2026:
+The 2026 edition documents the continued development of counterspace capabilities by 13 countries. While we see a proliferation of R&D into counterspace capabilities, only non-destructive counterspace capabilities are being used in active military conflicts.
+We are seeing an increase in the number of countries interested in developing “bodyguard” satellites and spaceplanes, both of which have co-orbital capabilities.
+China’s likely on-orbit refueling experiment which took place for most of the second half of 2025 is examined, as are reports that it may have a new DA-ASAT interceptor.
+The end of Russia’s Luch satellite’s travel around the GEO belt is documented, as well as its significant other RPO activities.
+The United States released a lot of policies and doctrinal strategy documents in 2025, with a heavy emphasis on dynamic space operations. What is known about Golden Dome’s continued evolution is included.
+The UK and France both conducted cooperative RPOs with the United States.
+Jamming in Iran has increased extensively; its spoofing of Starlink is discussed (NB: this report has an information cut-off of Feb. 28, 2026).
+France and Germany have both expressed interest in lasers for non-destructive ASAT capabilities.
+Japan published space domain defense guidelines, while North Korea changed its policies to allow for military use of space.
+The cyber counterspace chapter documented major breaches of ESA’s computer systems, GEO communications satellites not encrypting their data, the possibility of cyberattacks of satellites through open-source software, and the extent that cyber has become part of the Russian-Ukrainian conflict.
+The 2026 report updated the amount of space debris created by the United States, Russia, China, & India from their counterspace testing: there were 6904 cataloged pieces of debris from tests, of which 2773 are still on orbit.
+Global Counterspace Capabilities © 2026 by Secure World Foundation is licensed under Attribution-NonCommercial 4.0 International. To view a copy of this license, visit
+http://creativecommons.org/licenses/by-nc/4.0/
+Executive Summaries
+2026 Executive Summary - Chinese
+2026 Executive Summary - English
+2026 Executive Summary - French
+2026 Executive Summary - Portuguese
+2026 Executive Summary - Russian
+Explore Previous Counterspace Reports
+2025 Counterspace Report
+2024 Counterspace Report
+2023 Counterspace Report
+2022 Counterspace Report
+2021 Counterspace Report
+2020 Counterspace Report
+2019 Counterspace Report
+2018 Counterspace Report
+Additional Information
+The following links include the core data underlying the counterspace report and/or additional resources to help visualize and understand the report's findings and data.
+History of ASAT Testing in Space
+(Google Sheet)
+History of Robotic Rendezvous and Proximity Operations in Space
+(Google Sheet)
+Animations of debris clouds from historical ASAT tests in space
+(Youtube)
+Code used to generate the Gabbard plots
+(Github)
+A selection of media coverage
+SpaceNews article by Sandra Erwin:
+https://spacenews.com/space-security-moves-to-forefront-as-threats-to-satellites-spread/
+Breaking Defense article by Theresa Hitchens:
+https://breakingdefense.com/2026/04/as-more-nations-seek-counterspace-chops-gps-jamming-also-rises-report/
+Payload Space:
+April 9, 2026 Morning Briefing
+Air & Space Forces article by Courtney Albon:
+https://www.airandspaceforces.com/new-space-threat-report-bodyguard-satellites/
+Inside GNSS article:
+https://insidegnss.com/gnss-interference-now-a-constant-of-modern-conflict-swf-annual-report-finds/
+New article in GPS World by Tracy Cozzens:
+https://www.gpsworld.com/swf-gnss-interference-a-key-issue-for-space-security/
+‘Everyone wants a spaceplane’: More countries eye on-orbit protection for satellites by Thomas Novelly:
+https://www.defenseone.com/defense-systems/2026/04/everyone-wants-spaceplane-more-countries-eye-orbit-protection-satellites/412773/
+"Space Jam," by  Dr. Thomas Withington in Armada International:
+https://www.armadainternational.com/2026/05/space-jam-electronic-warfare/
+Cybersecurity in Space Operations
+Emerging Space Threats
+Global Space Policy Analysis
+Space Security
+Counterspace Capabilities
+Share on Social Media
+Related Publications
+Explore some of our related publications below.
+4/16/2026
+Insight
+The Counterspace Surge: A Year of Acceleration
+Counterspace Capabilities
+This insight piece highlights major findings from Secure World Foundation’s 2026 Global Counterspace Capabilities report, which tracks how 13 countries are developing capabilities to disrupt, deny, degrade, or destroy space systems. It matters because it gives policymakers and other stakeholders a clearer public picture of a fast-changing area of space security.
+Updated This Month
+Not Updated This Month
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.
+Read Publication
+PDF File
+Anti-Satellite Weapons Infographic
+Counterspace Capabilities
+An infographic illustrating the risks posed by anti-satellite (ASAT) weapons and their impact on orbital debris and sustainability.
+Updated This Month
+Not Updated This Month
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.
+Read Publication
+4/6/2018
+Report
+2018 Global Counterspace Capabilities Report
+Counterspace Capabilities
+2018's initial open-source report tracking the development of counterspace technologies worldwide.
+Updated This Month
+Not Updated This Month
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.
+Read Publication
+3/29/2019
+Report
+2019 Global Counterspace Capabilities Report
+Counterspace Capabilities
+2019's comprehensive open-source review of evolving military space threats and technologies.
+Updated This Month
+Not Updated This Month
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.
+Read Publication
+4/2/2020
+Report
+2020 Global Counterspace Capabilities Report
+Counterspace Capabilities
+A comprehensive review of space security and anti-satellite developments worldwide.
+Updated This Month
+Not Updated This Month
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.
+Read Publication
+3/26/2021
+Report
+2021 Global Counterspace Capabilities Report
+Counterspace Capabilities
+A 2021 snapshot of counterspace developments, assessing military space capabilities and their implications for global security.
+Updated This Month
+Not Updated This Month
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.
+Read Publication
+SWF Newsletter
+Secure, Sustainable & Peaceful Uses of Outer Space
+Email Address
+The Secure World Newsletter includes information on our latest and upcoming events, new publications, and recent company updates.
+I agree to receive updates and have read the
+Privacy Policy
+.
+Sign up for the newsletter
+Stay up-to-date with events in Colorado.
+Stay up-to-date with events in DC.
+Hear about SWF in the media.
+Thank you! Your submission has been received!
+Something went wrong while submitting the form.
+Quick Links
+Opportunities at SWF
+News
+News Archive
+Publications
+Contact Us
+Privacy Policy
+Find Us On Social Media
+LinkedIn
+X / Twitter
+YouTube
+Instagram
+Bluesky
+© Copyright 2025. Secure World Foundation. All Rights Reserved.
+Accessibility Policy
+Privacy Policy
+Creative Commons
+Cybersecurity in Space Operations
+Emerging Space Threats
+Global Space Policy Analysis
+Space Security
+Counterspace Capabilities
+Victoria Samson
+Kathleen Brett
+No items found.

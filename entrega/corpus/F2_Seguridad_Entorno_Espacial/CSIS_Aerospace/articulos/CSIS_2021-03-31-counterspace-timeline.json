@@ -1,0 +1,40 @@
+{
+  "url": "https://aerospace.csis.org/counterspace-timeline/",
+  "title": "Counterspace Timeline, 1959 – 2022",
+  "date": "2021-03-31T23:49:38+00:00",
+  "authors": [
+    "Todd Harrison",
+    "Kaitlyn Johnson",
+    "Joe Moye",
+    "Makena Young",
+    "Thomas G. Roberts",
+    "Tyler Way",
+    "Alexandra Coultrup",
+    "Madison Bergethon"
+  ],
+  "topics": [
+    "Space Threats",
+    "Space Security",
+    "Civil and Commercial Space",
+    "Air Power and Cross-Domain Integration",
+    "Next-Gen",
+    "Space Threat Assessment",
+    "China",
+    "France",
+    "India",
+    "Iran",
+    "North Korea",
+    "Russia",
+    "United States"
+  ],
+  "excerpt": "This timeline of counterspace weapons data is comprised of tests, technology demonstrations, and unusual behaviors from 1945-2021.",
+  "body_paragraphs": [
+    "This repository of counterspace weapons data is comprised of tests, technology demonstrations, and unusual behaviors first identified in our annual Space Threat Assessment report series.",
+    "Use the filter function to sort by weapons type, country, and date. Note that some entries have additional analysis, which describes the counterspace entry in more detail. You can easily find all those by filtering to show only entries with details."
+  ],
+  "body_text": "This repository of counterspace weapons data is comprised of tests, technology demonstrations, and unusual behaviors first identified in our annual Space Threat Assessment report series.\n\nUse the filter function to sort by weapons type, country, and date. Note that some entries have additional analysis, which describes the counterspace entry in more detail. You can easily find all those by filtering to show only entries with details.",
+  "pdf_links": [],
+  "images": [
+    "https://csis-ilab.github.io/aerospace-viz/CounterspaceWeaponsTimeline/dist/hamburger.2f717bcf.svg"
+  ]
+}

@@ -1,0 +1,537 @@
+{
+  "source_url": "https://www.swfound.org/publications-and-reports/2026-global-counterspace-capabilities-report",
+  "scraped_at": "2026-05-26T20:05:44.719901Z",
+  "metadata": {
+    "title": "Secure World Foundation: 2026 Global Counterspace Capabilities Report",
+    "description": "The 2026 report reveals growing global counterspace capabilities and urges public awareness of the risks of space conflict.",
+    "image_preview": "https://cdn.prod.website-files.com/66dcc6872f6ed23bce1db235/69fcc435da172340b5ddb018_GCR-Cover_sml.jpg",
+    "og_type": "website",
+    "canonical": "https://www.swfound.org/publications-and-reports/2026-global-counterspace-capabilities-report",
+    "twitter_card": "summary_large_image",
+    "page_title": "Secure World Foundation: 2026 Global Counterspace Capabilities Report",
+    "publication_date": "Last Published: Tue May 26 2026 17:59:21 GMT+0000 (Coordinated Universal Time)",
+    "report_title": "2026 Global Counterspace Capabilities Report",
+    "category": "Counterspace Capabilities",
+    "countries_covered": [
+      "the United States",
+      "Russia",
+      "China",
+      "India",
+      "Australia",
+      "France",
+      "Germany (added this year)",
+      "Iran",
+      "Israel",
+      "Japan",
+      "North Korea",
+      "South Korea",
+      "the United Kingdom"
+    ],
+    "counterspace_categories": [
+      "co-orbital",
+      "direct-ascent",
+      "electronic warfare",
+      "directed energy",
+      "cyber"
+    ]
+  },
+  "content": {
+    "sections": {
+      "About": "Get Involved",
+      "Reports": "Reports by Topic",
+      "Events": "Events by Topic",
+      "Publications": "Publications Key Publications Publications by Topic",
+      "2026 Global Counterspace Capabilities Report": "‍2026 Executive Summary 2026 Executive Summary",
+      "Background": "Space security has become an increasingly salient policy issue. Over the last several years, there has been growing concern from multiple governments over the reliance on vulnerable space capabilities for national security, and the corresponding proliferation of offensive counterspace capabilities that could be used to disrupt, deny, degrade, or destroy space systems. This in turn has led to increased rhetoric from some countries about the need to prepare for future conflicts on Earth to extend into space, and calls from some corners to increase the development of offensive counterspace capabilities and put in place more aggressive policies and postures. We feel strongly that a more open and public debate on these issues is urgently needed. Space is not the sole domain of militaries and intelligence services. Our global society and economy is increasingly dependent on space capabilities, and a future conflict in space could have massive, long-term negative repercussions that are felt here on Earth. Even testing of these capabilities could have long-lasting negative repercussions for the space environment, and all who operate there. The public should be as aware of the developing threats and risks of different policy options as would be the case for other national security issues in the air, land, and sea domains.",
+      "The 2026 Report": "Edited by SWF Chief Director, Space Security and Stability,Victoria Samson, and SWF Program Analyst, Space Security and Stability,Kathleen Brett, the 2026 edition of the report compiles and assesses publicly available information on counterspace capabilities being developed by 13 countries across five categories: co-orbital, direct-ascent, electronic warfare, directed energy, and cyber. It assesses the current and near-term future capabilities for each country, along with their potential military utility, and discusses their space situational awareness capabilities as well. The countries covered in this report are: the United States, Russia, China, India, Australia, France, Germany (added this year), Iran, Israel, Japan, North Korea, South Korea, and the United Kingdom. Victoria Samson Kathleen Brett Major Updates in 2026: Major Updates in 2026: The 2026 edition documents the continued development of counterspace capabilities by 13 countries. While we see a proliferation of R&D into counterspace capabilities, only non-destructive counterspace capabilities are being used in active military conflicts. We are seeing an increase in the number of countries interested in developing “bodyguard” satellites and spaceplanes, both of which have co-orbital capabilities. China’s likely on-orbit refueling experiment which took place for most of the second half of 2025 is examined, as are reports that it may have a new DA-ASAT interceptor. The end of Russia’s Luch satellite’s travel around the GEO belt is documented, as well as its significant other RPO activities. The United States released a lot of policies and doctrinal strategy documents in 2025, with a heavy emphasis on dynamic space operations. What is known about Golden Dome’s continued evolution is included. The UK and France both conducted cooperative RPOs with the United States. Jamming in Iran has increased extensively; its spoofing of Starlink is discussed (NB: this report has an information cut-off of Feb. 28, 2026). France and Germany have both expressed interest in lasers for non-destructive ASAT capabilities. Japan published space domain defense guidelines, while North Korea changed its policies to allow for military use of space. The cyber counterspace chapter documented major breaches of ESA’s computer systems, GEO communications satellites not encrypting their data, the possibility of cyberattacks of satellites through open-source software, and the extent that cyber has become part of the Russian-Ukrainian conflict. The 2026 report updated the amount of space debris created by the United States, Russia, China, & India from their counterspace testing: there were 6904 cataloged pieces of debris from tests, of which 2773 are still on orbit. Global Counterspace Capabilities © 2026 by Secure World Foundation is licensed under Attribution-NonCommercial 4.0 International. To view a copy of this license, visithttp://creativecommons.org/licenses/by-nc/4.0/ http://creativecommons.org/licenses/by-nc/4.0/",
+      "Executive Summaries": "2026 Executive Summary - Chinese 2026 Executive Summary - Chinese 2026 Executive Summary - English 2026 Executive Summary - English 2026 Executive Summary - French 2026 Executive Summary - French 2026 Executive Summary - Portuguese 2026 Executive Summary - Portuguese 2026 Executive Summary - Russian 2026 Executive Summary - Russian",
+      "Explore Previous Counterspace Reports": "2025 Counterspace Report 2024 Counterspace Report 2023 Counterspace Report 2022 Counterspace Report 2021 Counterspace Report 2020 Counterspace Report 2019 Counterspace Report 2018 Counterspace Report",
+      "Additional Information": "The following links include the core data underlying the counterspace report and/or additional resources to help visualize and understand the report's findings and data. History of ASAT Testing in Space(Google Sheet) History of ASAT Testing in Space History of Robotic Rendezvous and Proximity Operations in Space(Google Sheet) History of Robotic Rendezvous and Proximity Operations in Space Animations of debris clouds from historical ASAT tests in space(Youtube) Animations of debris clouds from historical ASAT tests in space Code used to generate the Gabbard plots(Github) Code used to generate the Gabbard plots",
+      "A selection of media coverage": "SpaceNews article by Sandra Erwin:https://spacenews.com/space-security-moves-to-forefront-as-threats-to-satellites-spread/ SpaceNews article by Sandra Erwin: https://spacenews.com/space-security-moves-to-forefront-as-threats-to-satellites-spread/ Breaking Defense article by Theresa Hitchens:https://breakingdefense.com/2026/04/as-more-nations-seek-counterspace-chops-gps-jamming-also-rises-report/ Breaking Defense article by Theresa Hitchens: https://breakingdefense.com/2026/04/as-more-nations-seek-counterspace-chops-gps-jamming-also-rises-report/ Payload Space:April 9, 2026 Morning Briefing Payload Space: April 9, 2026 Morning Briefing Air & Space Forces article by Courtney Albon:https://www.airandspaceforces.com/new-space-threat-report-bodyguard-satellites/ Air & Space Forces article by Courtney Albon: https://www.airandspaceforces.com/new-space-threat-report-bodyguard-satellites/ Inside GNSS article:https://insidegnss.com/gnss-interference-now-a-constant-of-modern-conflict-swf-annual-report-finds/ Inside GNSS article: https://insidegnss.com/gnss-interference-now-a-constant-of-modern-conflict-swf-annual-report-finds/ New article in GPS World by Tracy Cozzens:https://www.gpsworld.com/swf-gnss-interference-a-key-issue-for-space-security/ New article in GPS World by Tracy Cozzens: https://www.gpsworld.com/swf-gnss-interference-a-key-issue-for-space-security/ ‘Everyone wants a spaceplane’: More countries eye on-orbit protection for satellites by Thomas Novelly:https://www.defenseone.com/defense-systems/2026/04/everyone-wants-spaceplane-more-countries-eye-orbit-protection-satellites/412773/ ‘Everyone wants a spaceplane’: More countries eye on-orbit protection for satellites by Thomas Novelly: https://www.defenseone.com/defense-systems/2026/04/everyone-wants-spaceplane-more-countries-eye-orbit-protection-satellites/412773/ \"Space Jam,\" by  Dr. Thomas Withington in Armada International:https://www.armadainternational.com/2026/05/space-jam-electronic-warfare/ \"Space Jam,\" by  Dr. Thomas Withington in Armada International: https://www.armadainternational.com/2026/05/space-jam-electronic-warfare/",
+      "Explore some of our related publications below.": "This insight piece highlights major findings from Secure World Foundation’s 2026 Global Counterspace Capabilities report, which tracks how 13 countries are developing capabilities to disrupt, deny, degrade, or destroy space systems. It matters because it gives policymakers and other stakeholders a clearer public picture of a fast-changing area of space security. Updated This Month Not Updated This Month Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere. An infographic illustrating the risks posed by anti-satellite (ASAT) weapons and their impact on orbital debris and sustainability. Updated This Month Not Updated This Month Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere. 2018's initial open-source report tracking the development of counterspace technologies worldwide. Updated This Month Not Updated This Month Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere. 2019's comprehensive open-source review of evolving military space threats and technologies. Updated This Month Not Updated This Month Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere. A comprehensive review of space security and anti-satellite developments worldwide. Updated This Month Not Updated This Month Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere. A 2021 snapshot of counterspace developments, assessing military space capabilities and their implications for global security. Updated This Month Not Updated This Month Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere."
+    },
+    "full_text": "News & Media\nAbout\nAbout\nLearn more about Secure World Foundation\nOverview\nOur Vision and Story\nAbout Us\nOur Team\nGet Involved\nContact Us\nOpportunities\nReports\nExplore our extensive library of reports\nView All Reports\nReports\nReports\nResources Nav Exemple\nReports by Topic\nCounterspace Capabilities\nSpace Sustainability\nResponsible Behavior in Space\nGroup 3\nGroup 4\nEvents\nEvents\nGet involved with our events.\nEvents\nUpcoming Events\nPast Events\nKey Events\nThe 8th Summit for Space Sustainability\nEvents by Topic\nResponsible Behavior in Space\nSpace Governance\nSpace Sustainability\nPublications\nPublications\nDiscover our deep research\nPublications\nExplore Our Publications\nReports\nAnnual Reports\nKey Publications\nGlobal Counterspace Report\nCOPUOS Briefing Book\nHandbook for New Space Actors\nPublications by Topic\nCounterspace Capabilities\nSpace Sustainability\nFact Sheets\nContact Us\nApril 8, 2026\nPDF File\nAlternative Languages\n2026 Global Counterspace Capabilities Report\nCounterspace Capabilities\nEditors\nVictoria Samson\nKathleen Brett\nView Publication\nView Publication\n2026 Global Counterspace Capabilities Report\nCounterspace Capabilities\nAuthors\nNo items found.\nEditors\nVictoria Samson\nKathleen Brett\nView Publication\nView Publication\nAdditional Links\n‍\n2026 Executive Summary\nShare on Social Media\nBackground\nSpace security has become an increasingly salient policy issue. Over the last several years, there has been growing concern from multiple governments over the reliance on vulnerable space capabilities for national security, and the corresponding proliferation of offensive counterspace capabilities that could be used to disrupt, deny, degrade, or destroy space systems. This in turn has led to increased rhetoric from some countries about the need to prepare for future conflicts on Earth to extend into space, and calls from some corners to increase the development of offensive counterspace capabilities and put in place more aggressive policies and postures.\nWe feel strongly that a more open and public debate on these issues is urgently needed. Space is not the sole domain of militaries and intelligence services. Our global society and economy is increasingly dependent on space capabilities, and a future conflict in space could have massive, long-term negative repercussions that are felt here on Earth. Even testing of these capabilities could have long-lasting negative repercussions for the space environment, and all who operate there. The public should be as aware of the developing threats and risks of different policy options as would be the case for other national security issues in the air, land, and sea domains.\nThe 2026 Report\nEdited by SWF Chief Director, Space Security and Stability,\nVictoria Samson\n, and SWF Program Analyst, Space Security and Stability,\nKathleen Brett\n, the 2026 edition of the report compiles and assesses publicly available information on counterspace capabilities being developed by 13 countries across five categories: co-orbital, direct-ascent, electronic warfare, directed energy, and cyber. It assesses the current and near-term future capabilities for each country, along with their potential military utility, and discusses their space situational awareness capabilities as well. The countries covered in this report are: the United States, Russia, China, India, Australia, France, Germany (added this year), Iran, Israel, Japan, North Korea, South Korea, and the United Kingdom.\nMajor Updates in 2026:\nThe 2026 edition documents the continued development of counterspace capabilities by 13 countries. While we see a proliferation of R&D into counterspace capabilities, only non-destructive counterspace capabilities are being used in active military conflicts.\nWe are seeing an increase in the number of countries interested in developing “bodyguard” satellites and spaceplanes, both of which have co-orbital capabilities.\nChina’s likely on-orbit refueling experiment which took place for most of the second half of 2025 is examined, as are reports that it may have a new DA-ASAT interceptor.\nThe end of Russia’s Luch satellite’s travel around the GEO belt is documented, as well as its significant other RPO activities.\nThe United States released a lot of policies and doctrinal strategy documents in 2025, with a heavy emphasis on dynamic space operations. What is known about Golden Dome’s continued evolution is included.\nThe UK and France both conducted cooperative RPOs with the United States.\nJamming in Iran has increased extensively; its spoofing of Starlink is discussed (NB: this report has an information cut-off of Feb. 28, 2026).\nFrance and Germany have both expressed interest in lasers for non-destructive ASAT capabilities.\nJapan published space domain defense guidelines, while North Korea changed its policies to allow for military use of space.\nThe cyber counterspace chapter documented major breaches of ESA’s computer systems, GEO communications satellites not encrypting their data, the possibility of cyberattacks of satellites through open-source software, and the extent that cyber has become part of the Russian-Ukrainian conflict.\nThe 2026 report updated the amount of space debris created by the United States, Russia, China, & India from their counterspace testing: there were 6904 cataloged pieces of debris from tests, of which 2773 are still on orbit.\nGlobal Counterspace Capabilities © 2026 by Secure World Foundation is licensed under Attribution-NonCommercial 4.0 International. To view a copy of this license, visit\nhttp://creativecommons.org/licenses/by-nc/4.0/\nExecutive Summaries\n2026 Executive Summary - Chinese\n2026 Executive Summary - English\n2026 Executive Summary - French\n2026 Executive Summary - Portuguese\n2026 Executive Summary - Russian\nExplore Previous Counterspace Reports\n2025 Counterspace Report\n2024 Counterspace Report\n2023 Counterspace Report\n2022 Counterspace Report\n2021 Counterspace Report\n2020 Counterspace Report\n2019 Counterspace Report\n2018 Counterspace Report\nAdditional Information\nThe following links include the core data underlying the counterspace report and/or additional resources to help visualize and understand the report's findings and data.\nHistory of ASAT Testing in Space\n(Google Sheet)\nHistory of Robotic Rendezvous and Proximity Operations in Space\n(Google Sheet)\nAnimations of debris clouds from historical ASAT tests in space\n(Youtube)\nCode used to generate the Gabbard plots\n(Github)\nA selection of media coverage\nSpaceNews article by Sandra Erwin:\nhttps://spacenews.com/space-security-moves-to-forefront-as-threats-to-satellites-spread/\nBreaking Defense article by Theresa Hitchens:\nhttps://breakingdefense.com/2026/04/as-more-nations-seek-counterspace-chops-gps-jamming-also-rises-report/\nPayload Space:\nApril 9, 2026 Morning Briefing\nAir & Space Forces article by Courtney Albon:\nhttps://www.airandspaceforces.com/new-space-threat-report-bodyguard-satellites/\nInside GNSS article:\nhttps://insidegnss.com/gnss-interference-now-a-constant-of-modern-conflict-swf-annual-report-finds/\nNew article in GPS World by Tracy Cozzens:\nhttps://www.gpsworld.com/swf-gnss-interference-a-key-issue-for-space-security/\n‘Everyone wants a spaceplane’: More countries eye on-orbit protection for satellites by Thomas Novelly:\nhttps://www.defenseone.com/defense-systems/2026/04/everyone-wants-spaceplane-more-countries-eye-orbit-protection-satellites/412773/\n\"Space Jam,\" by  Dr. Thomas Withington in Armada International:\nhttps://www.armadainternational.com/2026/05/space-jam-electronic-warfare/\nCybersecurity in Space Operations\nEmerging Space Threats\nGlobal Space Policy Analysis\nSpace Security\nCounterspace Capabilities\nShare on Social Media\nRelated Publications\nExplore some of our related publications below.\n4/16/2026\nInsight\nThe Counterspace Surge: A Year of Acceleration\nCounterspace Capabilities\nThis insight piece highlights major findings from Secure World Foundation’s 2026 Global Counterspace Capabilities report, which tracks how 13 countries are developing capabilities to disrupt, deny, degrade, or destroy space systems. It matters because it gives policymakers and other stakeholders a clearer public picture of a fast-changing area of space security.\nUpdated This Month\nNot Updated This Month\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.\nRead Publication\nPDF File\nAnti-Satellite Weapons Infographic\nCounterspace Capabilities\nAn infographic illustrating the risks posed by anti-satellite (ASAT) weapons and their impact on orbital debris and sustainability.\nUpdated This Month\nNot Updated This Month\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.\nRead Publication\n4/6/2018\nReport\n2018 Global Counterspace Capabilities Report\nCounterspace Capabilities\n2018's initial open-source report tracking the development of counterspace technologies worldwide.\nUpdated This Month\nNot Updated This Month\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.\nRead Publication\n3/29/2019\nReport\n2019 Global Counterspace Capabilities Report\nCounterspace Capabilities\n2019's comprehensive open-source review of evolving military space threats and technologies.\nUpdated This Month\nNot Updated This Month\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.\nRead Publication\n4/2/2020\nReport\n2020 Global Counterspace Capabilities Report\nCounterspace Capabilities\nA comprehensive review of space security and anti-satellite developments worldwide.\nUpdated This Month\nNot Updated This Month\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.\nRead Publication\n3/26/2021\nReport\n2021 Global Counterspace Capabilities Report\nCounterspace Capabilities\nA 2021 snapshot of counterspace developments, assessing military space capabilities and their implications for global security.\nUpdated This Month\nNot Updated This Month\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.\nRead Publication\nSWF Newsletter\nSecure, Sustainable & Peaceful Uses of Outer Space\nEmail Address\nThe Secure World Newsletter includes information on our latest and upcoming events, new publications, and recent company updates.\nI agree to receive updates and have read the\nPrivacy Policy\n.\nSign up for the newsletter\nStay up-to-date with events in Colorado.\nStay up-to-date with events in DC.\nHear about SWF in the media.\nThank you! Your submission has been received!\nSomething went wrong while submitting the form.\nQuick Links\nOpportunities at SWF\nNews\nNews Archive\nPublications\nContact Us\nPrivacy Policy\nFind Us On Social Media\nLinkedIn\nX / Twitter\nYouTube\nInstagram\nBluesky\n© Copyright 2025. Secure World Foundation. All Rights Reserved.\nAccessibility Policy\nPrivacy Policy\nCreative Commons\nCybersecurity in Space Operations\nEmerging Space Threats\nGlobal Space Policy Analysis\nSpace Security\nCounterspace Capabilities\nVictoria Samson\nKathleen Brett\nNo items found."
+  },
+  "editors": [
+    {
+      "name": "Victoria Samson",
+      "role": "Editor, Chief Director Space Security and Stability",
+      "profile": "https://www.swfound.org/team/victoria-samson",
+      "photo_url": "https://cdn.prod.website-files.com/66dcc6872f6ed23bce1db235/68239a54783e8c917bedf423_HS-2025_VictoriaSamson_web.avif"
+    },
+    {
+      "name": "Kathleen Brett",
+      "role": "Editor, Program Analyst Space Security and Stability",
+      "profile": "https://www.swfound.org/team/kathleen-brett",
+      "photo_url": "https://cdn.prod.website-files.com/66dcc6872f6ed23bce1db235/685948b82c82d26ce150c2a9_KBrett.jpg"
+    }
+  ],
+  "pdfs": [
+    {
+      "label": "View Publication",
+      "url": "https://www.dropbox.com/scl/fi/bxbmv6vxmzeorypc6y0ta/SWF_Global_Counterspace_Capabilities_2026_HR.pdf?rlkey=n0n0l5ajh0f31kh2httmthfes&st=d6m2bi44&raw=1",
+      "download_url": "https://www.dropbox.com/scl/fi/bxbmv6vxmzeorypc6y0ta/SWF_Global_Counterspace_Capabilities_2026_HR.pdf?rlkey=n0n0l5ajh0f31kh2httmthfes&st=d6m2bi44&raw=1",
+      "type": "dropbox",
+      "local_path": "swf_counterspace_2026/pdfs/SWF_Global_Counterspace_Capabilities_2026_HR.pdf",
+      "download_status": 200,
+      "size_bytes": 57819781
+    },
+    {
+      "label": "2026 Executive Summary",
+      "url": "https://www.dropbox.com/scl/fi/oz520yquv6t603jzdrdub/ExecSum_2026_SWF_Global_Counterspace_Capabilities.pdf?rlkey=m7i8jr71ukep8vfctte0eit4l&st=9r72bmhx&raw=1",
+      "download_url": "https://www.dropbox.com/scl/fi/oz520yquv6t603jzdrdub/ExecSum_2026_SWF_Global_Counterspace_Capabilities.pdf?rlkey=m7i8jr71ukep8vfctte0eit4l&st=9r72bmhx&raw=1",
+      "type": "dropbox",
+      "local_path": "swf_counterspace_2026/pdfs/ExecSum_2026_SWF_Global_Counterspace_Capabilities.pdf",
+      "download_status": 200,
+      "size_bytes": 3270456
+    },
+    {
+      "label": "2026 Executive Summary - Chinese",
+      "url": "https://www.dropbox.com/scl/fi/kj2kpurttovmvg2k0y20f/GCSR_2026_ExecSum_CHI.pdf?rlkey=k96of0n40qb6iugcikko0kdtv&st=if6fmk5j&raw=1",
+      "download_url": "https://www.dropbox.com/scl/fi/kj2kpurttovmvg2k0y20f/GCSR_2026_ExecSum_CHI.pdf?rlkey=k96of0n40qb6iugcikko0kdtv&st=if6fmk5j&raw=1",
+      "type": "dropbox",
+      "local_path": "swf_counterspace_2026/pdfs/GCSR_2026_ExecSum_CHI.pdf",
+      "download_status": 200,
+      "size_bytes": 3142120
+    },
+    {
+      "label": "2026 Executive Summary - English",
+      "url": "https://www.dropbox.com/scl/fi/9yteblhiegs7nzwfxci1s/GCSR_2026_ExecSum_ENG.pdf?rlkey=qfrac6rtn8f8aaadjkt2x8wde&st=6yi4ld5b&raw=1",
+      "download_url": "https://www.dropbox.com/scl/fi/9yteblhiegs7nzwfxci1s/GCSR_2026_ExecSum_ENG.pdf?rlkey=qfrac6rtn8f8aaadjkt2x8wde&st=6yi4ld5b&raw=1",
+      "type": "dropbox",
+      "local_path": "swf_counterspace_2026/pdfs/GCSR_2026_ExecSum_ENG.pdf",
+      "download_status": 200,
+      "size_bytes": 3010733
+    },
+    {
+      "label": "2026 Executive Summary - French",
+      "url": "https://www.dropbox.com/scl/fi/y5qeozjefmrnkd39y9w05/GCSR_2026_ExecSum_FRE.pdf?rlkey=a6i5yydknktjv2nc6ah9rqd4t&st=x5sszvcp&raw=1",
+      "download_url": "https://www.dropbox.com/scl/fi/y5qeozjefmrnkd39y9w05/GCSR_2026_ExecSum_FRE.pdf?rlkey=a6i5yydknktjv2nc6ah9rqd4t&st=x5sszvcp&raw=1",
+      "type": "dropbox",
+      "local_path": "swf_counterspace_2026/pdfs/GCSR_2026_ExecSum_FRE.pdf",
+      "download_status": 200,
+      "size_bytes": 3023252
+    },
+    {
+      "label": "2026 Executive Summary - Portuguese",
+      "url": "https://www.dropbox.com/scl/fi/iqeiaojf5m0cumjp6578m/GCSR_2026_ExecSum_POR.pdf?rlkey=ocfaan9t782765su2qdcf8jj5&st=yke09gej&raw=1",
+      "download_url": "https://www.dropbox.com/scl/fi/iqeiaojf5m0cumjp6578m/GCSR_2026_ExecSum_POR.pdf?rlkey=ocfaan9t782765su2qdcf8jj5&st=yke09gej&raw=1",
+      "type": "dropbox",
+      "local_path": "swf_counterspace_2026/pdfs/GCSR_2026_ExecSum_POR.pdf",
+      "download_status": 200,
+      "size_bytes": 3157980
+    },
+    {
+      "label": "2026 Executive Summary - Russian",
+      "url": "https://www.dropbox.com/scl/fi/380tfduashikqz9yqtm98/GCSR_2026_ExecSum_RUS.pdf?rlkey=bc0v19fam8xsb9gsaggn7h47g&st=2l2pp94u&raw=1",
+      "download_url": "https://www.dropbox.com/scl/fi/380tfduashikqz9yqtm98/GCSR_2026_ExecSum_RUS.pdf?rlkey=bc0v19fam8xsb9gsaggn7h47g&st=2l2pp94u&raw=1",
+      "type": "dropbox",
+      "local_path": "swf_counterspace_2026/pdfs/GCSR_2026_ExecSum_RUS.pdf",
+      "download_status": 200,
+      "size_bytes": 3084594
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.prod.website-files.com/66cf82e93849a4f65e1e25d1/68399cb24dc4a66ec0d2c535_s43-83-082~orig.jpg",
+      "alt": "",
+      "filename": "68399cb24dc4a66ec0d2c535_s43-83-082~orig.jpg",
+      "ext": ".jpg",
+      "local_path": "swf_counterspace_2026/images/68399cb24dc4a66ec0d2c535_s43-83-082~orig.jpg",
+      "download_status": 200,
+      "size_bytes": 148812
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66cf82e93849a4f65e1e25d1/68399cb30e67dd1473cc427a_sts063-712-072~medium.jpg",
+      "alt": "",
+      "filename": "68399cb30e67dd1473cc427a_sts063-712-072~medium.jpg",
+      "ext": ".jpg",
+      "local_path": "swf_counterspace_2026/images/68399cb30e67dd1473cc427a_sts063-712-072~medium.jpg",
+      "download_status": 200,
+      "size_bytes": 49696
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66cf82e93849a4f65e1e25d1/68399caedbb7cbe28229c326_38236.jpg",
+      "alt": "",
+      "filename": "68399caedbb7cbe28229c326_38236.jpg",
+      "ext": ".jpg",
+      "local_path": "swf_counterspace_2026/images/68399caedbb7cbe28229c326_38236.jpg",
+      "download_status": 200,
+      "size_bytes": 195418
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66dcc6872f6ed23bce1db235/68239a54783e8c917bedf423_HS-2025_VictoriaSamson_web.avif",
+      "alt": "",
+      "filename": "68239a54783e8c917bedf423_HS-2025_VictoriaSamson_web.avif",
+      "ext": ".avif",
+      "local_path": "swf_counterspace_2026/images/68239a54783e8c917bedf423_HS-2025_VictoriaSamson_web.avif",
+      "download_status": 200,
+      "size_bytes": 15527
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66dcc6872f6ed23bce1db235/685948b82c82d26ce150c2a9_KBrett.jpg",
+      "alt": "",
+      "filename": "685948b82c82d26ce150c2a9_KBrett.jpg",
+      "ext": ".jpg",
+      "local_path": "swf_counterspace_2026/images/685948b82c82d26ce150c2a9_KBrett.jpg",
+      "download_status": 200,
+      "size_bytes": 56834
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66dcc6872f6ed23bce1db235/69d5661917fa2d73b0e69452_CSCR_Head.jpg",
+      "alt": "",
+      "filename": "69d5661917fa2d73b0e69452_CSCR_Head.jpg",
+      "ext": ".jpg",
+      "local_path": "swf_counterspace_2026/images/69d5661917fa2d73b0e69452_CSCR_Head.jpg",
+      "download_status": 200,
+      "size_bytes": 41686
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66dcc6872f6ed23bce1db235/69caf750b6a0fce65862de8a_Stoplight-Chart_ExecSummary-web.jpg",
+      "alt": "",
+      "filename": "69caf750b6a0fce65862de8a_Stoplight-Chart_ExecSummary-web.jpg",
+      "ext": ".jpg",
+      "local_path": "swf_counterspace_2026/images/69caf750b6a0fce65862de8a_Stoplight-Chart_ExecSummary-web.jpg",
+      "download_status": 200,
+      "size_bytes": 352135
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66dcc6872f6ed23bce1db235/6a063f3ccaf9f32a290430b9_ASAT-by-Country-2026.jpg",
+      "alt": "",
+      "filename": "6a063f3ccaf9f32a290430b9_ASAT-by-Country-2026.jpg",
+      "ext": ".jpg",
+      "local_path": "swf_counterspace_2026/images/6a063f3ccaf9f32a290430b9_ASAT-by-Country-2026.jpg",
+      "download_status": 200,
+      "size_bytes": 40587
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66dcc6872f6ed23bce1db235/69cac182eba666b43b38e5dd_Table-5-1_web.jpg",
+      "alt": "",
+      "filename": "69cac182eba666b43b38e5dd_Table-5-1_web.jpg",
+      "ext": ".jpg",
+      "local_path": "swf_counterspace_2026/images/69cac182eba666b43b38e5dd_Table-5-1_web.jpg",
+      "download_status": 200,
+      "size_bytes": 288299
+    }
+  ],
+  "additional_links": [
+    {
+      "text": "The 8th Summit for Space Sustainability",
+      "url": "http://swfsummit.org/"
+    },
+    {
+      "text": "View Publication",
+      "url": "https://www.dropbox.com/scl/fi/bxbmv6vxmzeorypc6y0ta/SWF_Global_Counterspace_Capabilities_2026_HR.pdf?rlkey=n0n0l5ajh0f31kh2httmthfes&st=d6m2bi44&raw=1"
+    },
+    {
+      "text": "2026 Executive Summary",
+      "url": "https://www.dropbox.com/scl/fi/oz520yquv6t603jzdrdub/ExecSum_2026_SWF_Global_Counterspace_Capabilities.pdf?rlkey=m7i8jr71ukep8vfctte0eit4l&st=9r72bmhx&raw=1"
+    },
+    {
+      "text": "Victoria Samson",
+      "url": "https://www.swfound.org/team/victoria-samson"
+    },
+    {
+      "text": "Kathleen Brett",
+      "url": "https://www.swfound.org/team/kathleen-brett"
+    },
+    {
+      "text": "2026 Executive Summary - Chinese",
+      "url": "https://www.dropbox.com/scl/fi/kj2kpurttovmvg2k0y20f/GCSR_2026_ExecSum_CHI.pdf?rlkey=k96of0n40qb6iugcikko0kdtv&st=if6fmk5j&raw=1"
+    },
+    {
+      "text": "2026 Executive Summary - English",
+      "url": "https://www.dropbox.com/scl/fi/9yteblhiegs7nzwfxci1s/GCSR_2026_ExecSum_ENG.pdf?rlkey=qfrac6rtn8f8aaadjkt2x8wde&st=6yi4ld5b&raw=1"
+    },
+    {
+      "text": "2026 Executive Summary - French",
+      "url": "https://www.dropbox.com/scl/fi/y5qeozjefmrnkd39y9w05/GCSR_2026_ExecSum_FRE.pdf?rlkey=a6i5yydknktjv2nc6ah9rqd4t&st=x5sszvcp&raw=1"
+    },
+    {
+      "text": "2026 Executive Summary - Portuguese",
+      "url": "https://www.dropbox.com/scl/fi/iqeiaojf5m0cumjp6578m/GCSR_2026_ExecSum_POR.pdf?rlkey=ocfaan9t782765su2qdcf8jj5&st=yke09gej&raw=1"
+    },
+    {
+      "text": "2026 Executive Summary - Russian",
+      "url": "https://www.dropbox.com/scl/fi/380tfduashikqz9yqtm98/GCSR_2026_ExecSum_RUS.pdf?rlkey=bc0v19fam8xsb9gsaggn7h47g&st=2l2pp94u&raw=1"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "",
+      "url": "https://www.swfound.org/"
+    },
+    {
+      "text": "News & Media",
+      "url": "https://www.swfound.org/news"
+    },
+    {
+      "text": "Our Vision and Story",
+      "url": "https://www.swfound.org/our-vision-and-story"
+    },
+    {
+      "text": "About Us",
+      "url": "https://www.swfound.org/about-us"
+    },
+    {
+      "text": "Our Team",
+      "url": "https://www.swfound.org/our-team"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.swfound.org/contact-us"
+    },
+    {
+      "text": "Opportunities",
+      "url": "https://www.swfound.org/opportunities-at-swf"
+    },
+    {
+      "text": "Reports",
+      "url": "https://www.swfound.org/reports"
+    },
+    {
+      "text": "Upcoming Events",
+      "url": "https://www.swfound.org/upcoming-events"
+    },
+    {
+      "text": "Past Events",
+      "url": "https://www.swfound.org/past-events"
+    },
+    {
+      "text": "The 8th Summit for Space Sustainability",
+      "url": "http://swfsummit.org/"
+    },
+    {
+      "text": "Responsible Behavior in Space",
+      "url": "https://www.swfound.org/events?topic-filter=Responsible+Behavior+In+Space"
+    },
+    {
+      "text": "Space Governance",
+      "url": "https://www.swfound.org/events?topic-filter=Space+Governance"
+    },
+    {
+      "text": "Space Sustainability",
+      "url": "https://www.swfound.org/events?topic-filter=Space+Sustainability"
+    },
+    {
+      "text": "Explore Our Publications",
+      "url": "https://www.swfound.org/publications"
+    },
+    {
+      "text": "Annual Reports",
+      "url": "https://www.swfound.org/about-us#annual-reports"
+    },
+    {
+      "text": "Global Counterspace Report",
+      "url": "https://www.swfound.org/publications-and-reports/2026-global-counterspace-capabilities-report"
+    },
+    {
+      "text": "COPUOS Briefing Book",
+      "url": "https://www.swfound.org/publications-and-reports/copuos-briefing-book"
+    },
+    {
+      "text": "Handbook for New Space Actors",
+      "url": "https://www.swfound.org/publications-and-reports/handbook-for-new-actors-in-space"
+    },
+    {
+      "text": "Counterspace Capabilities",
+      "url": "https://www.swfound.org/publications?category=Counterspace"
+    },
+    {
+      "text": "Space Sustainability",
+      "url": "https://www.swfound.org/publications?keywords=Space+Sustainability"
+    },
+    {
+      "text": "Fact Sheets",
+      "url": "https://www.swfound.org/publications?type=Fact+Sheet"
+    },
+    {
+      "text": "View Publication",
+      "url": "https://www.dropbox.com/scl/fi/bxbmv6vxmzeorypc6y0ta/SWF_Global_Counterspace_Capabilities_2026_HR.pdf?rlkey=n0n0l5ajh0f31kh2httmthfes&st=d6m2bi44&raw=1"
+    },
+    {
+      "text": "2026 Executive Summary",
+      "url": "https://www.dropbox.com/scl/fi/oz520yquv6t603jzdrdub/ExecSum_2026_SWF_Global_Counterspace_Capabilities.pdf?rlkey=m7i8jr71ukep8vfctte0eit4l&st=9r72bmhx&raw=1"
+    },
+    {
+      "text": "Victoria Samson",
+      "url": "https://www.swfound.org/team/victoria-samson"
+    },
+    {
+      "text": "Kathleen Brett",
+      "url": "https://www.swfound.org/team/kathleen-brett"
+    },
+    {
+      "text": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "url": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    {
+      "text": "2026 Executive Summary - Chinese",
+      "url": "https://www.dropbox.com/scl/fi/kj2kpurttovmvg2k0y20f/GCSR_2026_ExecSum_CHI.pdf?rlkey=k96of0n40qb6iugcikko0kdtv&st=if6fmk5j&raw=1"
+    },
+    {
+      "text": "2026 Executive Summary - English",
+      "url": "https://www.dropbox.com/scl/fi/9yteblhiegs7nzwfxci1s/GCSR_2026_ExecSum_ENG.pdf?rlkey=qfrac6rtn8f8aaadjkt2x8wde&st=6yi4ld5b&raw=1"
+    },
+    {
+      "text": "2026 Executive Summary - French",
+      "url": "https://www.dropbox.com/scl/fi/y5qeozjefmrnkd39y9w05/GCSR_2026_ExecSum_FRE.pdf?rlkey=a6i5yydknktjv2nc6ah9rqd4t&st=x5sszvcp&raw=1"
+    },
+    {
+      "text": "2026 Executive Summary - Portuguese",
+      "url": "https://www.dropbox.com/scl/fi/iqeiaojf5m0cumjp6578m/GCSR_2026_ExecSum_POR.pdf?rlkey=ocfaan9t782765su2qdcf8jj5&st=yke09gej&raw=1"
+    },
+    {
+      "text": "2026 Executive Summary - Russian",
+      "url": "https://www.dropbox.com/scl/fi/380tfduashikqz9yqtm98/GCSR_2026_ExecSum_RUS.pdf?rlkey=bc0v19fam8xsb9gsaggn7h47g&st=2l2pp94u&raw=1"
+    },
+    {
+      "text": "2025 Counterspace Report",
+      "url": "https://www.swfound.org/publications-and-reports/2025-global-counterspace-capabilities-report"
+    },
+    {
+      "text": "2024 Counterspace Report",
+      "url": "https://www.swfound.org/publications-and-reports/2024-global-counterspace-capabilities-report"
+    },
+    {
+      "text": "2023 Counterspace Report",
+      "url": "https://www.swfound.org/publications-and-reports/2023-global-counterspace-capabilities-report"
+    },
+    {
+      "text": "2022 Counterspace Report",
+      "url": "https://www.swfound.org/publications-and-reports/2022-global-counterspace-capabilities-report"
+    },
+    {
+      "text": "2021 Counterspace Report",
+      "url": "https://www.swfound.org/publications-and-reports/2021-global-counterspace-capabilities-report"
+    },
+    {
+      "text": "2020 Counterspace Report",
+      "url": "https://www.swfound.org/publications-and-reports/2020-global-counterspace-capabilities-report"
+    },
+    {
+      "text": "2019 Counterspace Report",
+      "url": "https://www.swfound.org/publications-and-reports/2019-global-counterspace-capabilities-report"
+    },
+    {
+      "text": "2018 Counterspace Report",
+      "url": "https://www.swfound.org/publications-and-reports/2018-global-counterspace-capabilities-report"
+    },
+    {
+      "text": "History of ASAT Testing in Space",
+      "url": "https://docs.google.com/spreadsheets/d/1e5GtZEzdo6xk41i2_ei3c8jRZDjvP4Xwz3BVsUHwi48/edit#gid=0"
+    },
+    {
+      "text": "History of Robotic Rendezvous and Proximity Operations in Space",
+      "url": "https://docs.google.com/spreadsheets/d/1pHzvC-zGjF34Jrd6TdmM4odTL_MinBBoS_ld9X3jsW4/edit#gid=1782604784"
+    },
+    {
+      "text": "Animations of debris clouds from historical ASAT tests in space",
+      "url": "https://www.youtube.com/playlist?list=PLcuXVs-1Tw_8kIBI3pwtJMicPGbkqHwdQ"
+    },
+    {
+      "text": "Code used to generate the Gabbard plots",
+      "url": "https://github.com/harrison-caudill/gabby/tree/0e8f21"
+    },
+    {
+      "text": "https://spacenews.com/space-security-moves-to-forefront-as-threats-to-satellites-spread/",
+      "url": "https://spacenews.com/space-security-moves-to-forefront-as-threats-to-satellites-spread/"
+    },
+    {
+      "text": "https://breakingdefense.com/2026/04/as-more-nations-seek-counterspace-chops-gps-jamming-also-rises-r",
+      "url": "https://breakingdefense.com/2026/04/as-more-nations-seek-counterspace-chops-gps-jamming-also-rises-report/"
+    },
+    {
+      "text": "April 9, 2026 Morning Briefing",
+      "url": "https://pyld.omeclk.com/portal/public/ViewCommInBrowser.jsp?Sv4%2BeOSSucwiV%2BSifRJiNeUHzeOgHitihWcA7buBySkx9juaIKxtWDBOWYbERSVH%2FxvNtJntUhE6M%2BLmMVBmng%3D%3DA"
+    },
+    {
+      "text": "https://www.airandspaceforces.com/new-space-threat-report-bodyguard-satellites/",
+      "url": "https://www.airandspaceforces.com/new-space-threat-report-bodyguard-satellites/"
+    },
+    {
+      "text": "https://insidegnss.com/gnss-interference-now-a-constant-of-modern-conflict-swf-annual-report-finds/",
+      "url": "https://insidegnss.com/gnss-interference-now-a-constant-of-modern-conflict-swf-annual-report-finds/"
+    },
+    {
+      "text": "https://www.gpsworld.com/swf-gnss-interference-a-key-issue-for-space-security/",
+      "url": "https://www.gpsworld.com/swf-gnss-interference-a-key-issue-for-space-security/"
+    },
+    {
+      "text": "https://www.defenseone.com/defense-systems/2026/04/everyone-wants-spaceplane-more-countries-eye-orbi",
+      "url": "https://www.defenseone.com/defense-systems/2026/04/everyone-wants-spaceplane-more-countries-eye-orbit-protection-satellites/412773/"
+    },
+    {
+      "text": "https://www.armadainternational.com/2026/05/space-jam-electronic-warfare/",
+      "url": "https://www.armadainternational.com/2026/05/space-jam-electronic-warfare/"
+    },
+    {
+      "text": "4/16/2026InsightThe Counterspace Surge: A Year of AccelerationCounterspace CapabilitiesThis insight ",
+      "url": "https://www.swfound.org/publications-and-reports/global-counterspace-capabilities-report-insight-counterspace-surge-2026"
+    },
+    {
+      "text": "PDF FileAnti-Satellite Weapons InfographicCounterspace CapabilitiesAn infographic illustrating the r",
+      "url": "https://www.swfound.org/publications-and-reports/swf-asat-infographic-2022"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.swfound.org/policies"
+    },
+    {
+      "text": "News Archive",
+      "url": "https://www.swfound.org/news-archive"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/swfound/"
+    },
+    {
+      "text": "X / Twitter",
+      "url": "https://x.com/SWFoundation/"
+    },
+    {
+      "text": "YouTube",
+      "url": "https://www.youtube.com/c/SwfoundOrg"
+    },
+    {
+      "text": "Instagram",
+      "url": "https://www.instagram.com/secure_world_foundation_/"
+    },
+    {
+      "text": "Bluesky",
+      "url": "https://bsky.app/profile/swfoundation.bsky.social"
+    },
+    {
+      "text": "Accessibility Policy",
+      "url": "https://www.swfound.org/policies#accessibility-policy"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.swfound.org/policies#privacy-and-data-policy"
+    },
+    {
+      "text": "Creative Commons",
+      "url": "https://www.swfound.org/policies#creative-commons"
+    },
+    {
+      "text": "Cybersecurity in Space Operations",
+      "url": "https://www.swfound.org/publications-reports-keywords/cybersecurity-in-space-operations"
+    },
+    {
+      "text": "Emerging Space Threats",
+      "url": "https://www.swfound.org/publications-reports-keywords/emerging-space-threats"
+    },
+    {
+      "text": "Global Space Policy Analysis",
+      "url": "https://www.swfound.org/publications-reports-keywords/global-space-policy-analysis"
+    },
+    {
+      "text": "Space Security",
+      "url": "https://www.swfound.org/publications-reports-keywords/space-security"
+    },
+    {
+      "text": "Counterspace Capabilities",
+      "url": "https://www.swfound.org/publications-reports-keywords/counterspace-capabilities"
+    }
+  ]
+}

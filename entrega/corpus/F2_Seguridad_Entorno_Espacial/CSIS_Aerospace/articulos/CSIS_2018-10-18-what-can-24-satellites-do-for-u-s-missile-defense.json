@@ -1,0 +1,32 @@
+{
+  "url": "https://aerospace.csis.org/what-can-24-satellites-do-for-u-s-missile-defense/",
+  "title": "What Can 24 Satellites Do for U.S. Missile Defense?",
+  "date": "2018-10-18T16:34:51+00:00",
+  "authors": [
+    "Thomas G. Roberts"
+  ],
+  "topics": [
+    "Space Threats",
+    "Space Security",
+    "Civil and Commercial Space",
+    "Air Power and Cross-Domain Integration",
+    "Next-Gen",
+    "Long-Range Strike",
+    "Satellite Constellations",
+    "Space-Based Interceptors",
+    "Space-Based Missile Defense",
+    "Space-Based Sensors"
+  ],
+  "excerpt": "Despite claims that 24 satellites could form a boost-phase space-based missile interceptor system, many physicists do not agree.",
+  "body_paragraphs": [
+    "A 24-satellite constellation is too small for boost-phase missile defense. Hundreds or thousands of satellites would be needed to provide continuous coverage of even a small threat region like North Korea.",
+    "A similar constellation could work for limited midcourse-phase missile defense, but not all threat regions could be covered by the same architecture and midcourse intercepts are difficult, requiring detailed tracking and target discrimination data to avoid being fooled by decoys.",
+    "A constellation of this size would work, however, for space-based sensor (SBS) systems, which could observe missiles during their midcourse phase as long as they can maintain line-of-sight contact.",
+    "Read the full article at CSIS.org or download the PDF below."
+  ],
+  "body_text": "A 24-satellite constellation is too small for boost-phase missile defense. Hundreds or thousands of satellites would be needed to provide continuous coverage of even a small threat region like North Korea.\n\nA similar constellation could work for limited midcourse-phase missile defense, but not all threat regions could be covered by the same architecture and midcourse intercepts are difficult, requiring detailed tracking and target discrimination data to avoid being fooled by decoys.\n\nA constellation of this size would work, however, for space-based sensor (SBS) systems, which could observe missiles during their midcourse phase as long as they can maintain line-of-sight contact.\n\nRead the full article at CSIS.org or download the PDF below.",
+  "pdf_links": [
+    "https://csis-website-prod.s3.amazonaws.com/s3fs-public/publication/181018_Roberts_24SatellitesMissileDefense.pdf"
+  ],
+  "images": []
+}
